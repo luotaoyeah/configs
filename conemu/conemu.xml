@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <key name="Software">
 	<key name="ConEmu">
-		<key name=".Vanilla" modified="2016-05-29 00:35:11" build="160301">
+		<key name=".Vanilla" modified="2016-09-02 00:56:37" build="160301">
 			<value name="StartType" type="hex" data="02"/>
 			<value name="CmdLine" type="string" data=""/>
 			<value name="StartTasksFile" type="string" data=""/>
@@ -150,11 +150,11 @@
 			<value name="Cascaded" type="hex" data="00"/>
 			<value name="IntegralSize" type="hex" data="00"/>
 			<value name="WindowMode" type="dword" data="00000520"/>
-			<value name="ConWnd X" type="long" data="0"/>
-			<value name="ConWnd Y" type="long" data="0"/>
+			<value name="ConWnd X" type="long" data="-3"/>
+			<value name="ConWnd Y" type="long" data="-3"/>
 			<value name="LastMonitor" type="string" data="0,0,1920,1050"/>
-			<value name="ConWnd Width" type="dword" data="000000c8"/>
-			<value name="ConWnd Height" type="dword" data="00000028"/>
+			<value name="ConWnd Width" type="dword" data="000000ec"/>
+			<value name="ConWnd Height" type="dword" data="00000027"/>
 			<value name="16bit Height" type="ulong" data="0"/>
 			<value name="QuakeStyle" type="hex" data="00"/>
 			<value name="Restore2ActiveMon" type="hex" data="00"/>
@@ -223,7 +223,7 @@
 			<value name="SendAltPrintScrn" type="hex" data="00"/>
 			<value name="SendPrintScrn" type="hex" data="00"/>
 			<value name="SendCtrlEsc" type="hex" data="00"/>
-			<value name="Min2Tray" type="hex" data="00"/>
+			<value name="Min2Tray" type="hex" data="01"/>
 			<value name="AlwaysShowTrayIcon" type="hex" data="00"/>
 			<value name="SafeFarClose" type="hex" data="01"/>
 			<value name="SafeFarCloseMacro" type="string" data=""/>
@@ -293,16 +293,16 @@
 			<value name="StatusBar.Hide.Title" type="hex" data="01"/>
 			<value name="StatusBar.Hide.Time" type="hex" data="01"/>
 			<value name="StatusBar.Hide.Resize" type="hex" data="01"/>
-			<value name="Tabs" type="hex" data="00"/>
-			<value name="TabsLocation" type="hex" data="00"/>
+			<value name="Tabs" type="hex" data="01"/>
+			<value name="TabsLocation" type="hex" data="01"/>
 			<value name="TabIcons" type="hex" data="01"/>
 			<value name="OneTabPerGroup" type="hex" data="00"/>
 			<value name="ActivateSplitMouseOver" type="hex" data="01"/>
 			<value name="TabSelf" type="hex" data="01"/>
 			<value name="TabLazy" type="hex" data="01"/>
 			<value name="TabFlashChanged" type="long" data="8"/>
-			<value name="TabRecent" type="hex" data="01"/>
-			<value name="TabDblClick" type="ulong" data="1"/>
+			<value name="TabRecent" type="hex" data="00"/>
+			<value name="TabDblClick" type="ulong" data="3"/>
 			<value name="TabBtnDblClick" type="ulong" data="0"/>
 			<value name="TabsOnTaskBar" type="hex" data="02"/>
 			<value name="TaskBarOverlay" type="hex" data="01"/>
@@ -310,21 +310,21 @@
 			<value name="TabCloseMacro" type="string" data=""/>
 			<value name="TabFontFace" type="string" data="宋体"/>
 			<value name="TabFontCharSet" type="ulong" data="0"/>
-			<value name="TabFontHeight" type="long" data="13"/>
+			<value name="TabFontHeight" type="long" data="11"/>
 			<value name="SaveAllEditors" type="string" data=""/>
 			<value name="ToolbarAddSpace" type="long" data="0"/>
 			<value name="TabConsole" type="string" data="%s"/>
 			<value name="TabModifiedSuffix" type="string" data="[*]"/>
-			<value name="TabSkipWords" type="string" data="Administrator:|Администратор:"/>
+			<value name="TabSkipWords" type="string" data="Administrator:|Администратор:|管理员:"/>
 			<value name="TabPanels" type="string" data="&lt;%c&gt; %s"/>
 			<value name="TabEditor" type="string" data="&lt;%c.%i&gt;{%s}"/>
 			<value name="TabEditorModified" type="string" data="&lt;%c.%i&gt;[%s] *"/>
 			<value name="TabViewer" type="string" data="&lt;%c.%i&gt;[%s]"/>
 			<value name="TabLenMax" type="ulong" data="100"/>
-			<value name="AdminTitleSuffix" type="string" data=" (Admin)"/>
-			<value name="AdminShowShield" type="hex" data="01"/>
+			<value name="AdminTitleSuffix" type="string" data=""/>
+			<value name="AdminShowShield" type="hex" data="00"/>
 			<value name="HideInactiveConsoleTabs" type="hex" data="00"/>
-			<value name="ShowFarWindows" type="hex" data="01"/>
+			<value name="ShowFarWindows" type="hex" data="00"/>
 			<value name="TryToCenter" type="hex" data="01"/>
 			<value name="CenterConsolePad" type="ulong" data="10"/>
 			<value name="ShowScrollbar" type="hex" data="00"/>
@@ -392,11 +392,15 @@
 			<value name="Update.DownloadPath" type="string" data="%TEMP%\ConEmu"/>
 			<value name="Update.LeavePackages" type="hex" data="00"/>
 			<value name="Update.PostUpdateCmd" type="string" data="echo Last successful update&gt;ConEmuUpdate.info &amp;&amp; date /t&gt;&gt;ConEmuUpdate.info &amp;&amp; time /t&gt;&gt;ConEmuUpdate.info"/>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 			<key name="HotKeys" modified="2016-08-18 10:00:21" build="160522">
 =======
 			<key name="HotKeys" modified="2016-05-29 00:35:11" build="160301">
 >>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
+=======
+			<key name="HotKeys" modified="2016-09-02 00:56:37" build="160301">
+>>>>>>> Stashed changes
 				<value name="KeyMacroVersion" type="hex" data="02"/>
 				<value name="Multi.Modifier" type="dword" data="0000005b"/>
 				<value name="Multi.ArrowsModifier" type="dword" data="0000005b"/>
@@ -581,6 +585,7 @@
 				<value name="DndRKey" type="hex" data="a2"/>
 				<value name="WndDragKey" type="dword" data="00121101"/>
 			</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 			<key name="Tasks" modified="2016-08-18 10:00:21" build="160522">
 				<value name="Count" type="long" data="11"/>
@@ -590,6 +595,11 @@
 				<value name="Count" type="long" data="11"/>
 				<key name="Task1" modified="2016-05-29 00:35:11" build="160301">
 >>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
+=======
+			<key name="Tasks" modified="2016-09-02 00:56:37" build="160301">
+				<value name="Count" type="long" data="11"/>
+				<key name="Task1" modified="2016-09-02 00:56:37" build="160301">
+>>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Shells::cmd}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -598,11 +608,15 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				<key name="Task2" modified="2016-08-18 10:00:21" build="160522">
 =======
 				<key name="Task2" modified="2016-05-29 00:35:11" build="160301">
 >>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
+=======
+				<key name="Task2" modified="2016-09-02 00:56:37" build="160301">
+>>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Shells::cmd (Admin)}"/>
 					<value name="Flags" type="dword" data="00000003"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -611,11 +625,15 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				<key name="Task3" modified="2016-08-18 10:00:21" build="160522">
 =======
 				<key name="Task3" modified="2016-05-29 00:35:11" build="160301">
 >>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
+=======
+				<key name="Task3" modified="2016-09-02 00:56:37" build="160301">
+>>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Shells::cmd-32}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -624,11 +642,15 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				<key name="Task4" modified="2016-08-18 10:00:21" build="160522">
 =======
 				<key name="Task4" modified="2016-05-29 00:35:11" build="160301">
 >>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
+=======
+				<key name="Task4" modified="2016-09-02 00:56:37" build="160301">
+>>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Shells::cmd 64/32}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -638,11 +660,15 @@
 					<value name="Active" type="long" data="1"/>
 					<value name="Count" type="long" data="2"/>
 				</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				<key name="Task5" modified="2016-08-18 10:00:21" build="160522">
 =======
 				<key name="Task5" modified="2016-05-29 00:35:11" build="160301">
 >>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
+=======
+				<key name="Task5" modified="2016-09-02 00:56:37" build="160301">
+>>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Shells::PowerShell}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -651,11 +677,15 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				<key name="Task6" modified="2016-08-18 10:00:21" build="160522">
 =======
 				<key name="Task6" modified="2016-05-29 00:35:11" build="160301">
 >>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
+=======
+				<key name="Task6" modified="2016-09-02 00:56:37" build="160301">
+>>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Shells::PowerShell (Admin)}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -664,11 +694,15 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				<key name="Task7" modified="2016-08-18 10:00:21" build="160522">
 =======
 				<key name="Task7" modified="2016-05-29 00:35:11" build="160301">
 >>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
+=======
+				<key name="Task7" modified="2016-09-02 00:56:37" build="160301">
+>>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Tests::Show ANSI colors}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -677,11 +711,15 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				<key name="Task8" modified="2016-08-18 10:00:21" build="160522">
 =======
 				<key name="Task8" modified="2016-05-29 00:35:11" build="160301">
 >>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
+=======
+				<key name="Task8" modified="2016-09-02 00:56:37" build="160301">
+>>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Scripts::Chocolatey (Admin)}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -690,11 +728,15 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				<key name="Task9" modified="2016-08-18 10:00:21" build="160522">
 =======
 				<key name="Task9" modified="2016-05-29 00:35:11" build="160301">
 >>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
+=======
+				<key name="Task9" modified="2016-09-02 00:56:37" build="160301">
+>>>>>>> Stashed changes
 					<value name="Name" type="string" data="{putty}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -703,11 +745,15 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				<key name="Task10" modified="2016-08-18 10:00:21" build="160522">
 =======
 				<key name="Task10" modified="2016-05-29 00:35:11" build="160301">
 >>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
+=======
+				<key name="Task10" modified="2016-09-02 00:56:37" build="160301">
+>>>>>>> Stashed changes
 					<value name="Name" type="string" data="{one::release}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="0010124f"/>
@@ -716,11 +762,15 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				<key name="Task11" modified="2016-08-18 10:00:21" build="160522">
 =======
 				<key name="Task11" modified="2016-05-29 00:35:11" build="160301">
 >>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
+=======
+				<key name="Task11" modified="2016-09-02 00:56:37" build="160301">
+>>>>>>> Stashed changes
 					<value name="Name" type="string" data="{gvim}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00101247"/>
@@ -730,6 +780,7 @@
 					<value name="Count" type="long" data="1"/>
 				</key>
 			</key>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 			<key name="Apps" modified="2016-08-18 10:00:21" build="160522">
 				<value name="Count" type="long" data="0"/>
@@ -741,6 +792,12 @@
 			</key>
 			<key name="Colors" modified="2016-05-29 00:35:11" build="160301">
 >>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
+=======
+			<key name="Apps" modified="2016-09-02 00:56:37" build="160301">
+				<value name="Count" type="long" data="0"/>
+			</key>
+			<key name="Colors" modified="2016-09-02 00:56:37" build="160301">
+>>>>>>> Stashed changes
 				<value name="Count" type="long" data="0"/>
 			</key>
 		</key>
