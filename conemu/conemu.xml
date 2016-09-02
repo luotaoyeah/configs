@@ -392,15 +392,7 @@
 			<value name="Update.DownloadPath" type="string" data="%TEMP%\ConEmu"/>
 			<value name="Update.LeavePackages" type="hex" data="00"/>
 			<value name="Update.PostUpdateCmd" type="string" data="echo Last successful update&gt;ConEmuUpdate.info &amp;&amp; date /t&gt;&gt;ConEmuUpdate.info &amp;&amp; time /t&gt;&gt;ConEmuUpdate.info"/>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 			<key name="HotKeys" modified="2016-08-18 10:00:21" build="160522">
-=======
-			<key name="HotKeys" modified="2016-05-29 00:35:11" build="160301">
->>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
-=======
-			<key name="HotKeys" modified="2016-09-02 00:56:37" build="160301">
->>>>>>> Stashed changes
 				<value name="KeyMacroVersion" type="hex" data="02"/>
 				<value name="Multi.Modifier" type="dword" data="0000005b"/>
 				<value name="Multi.ArrowsModifier" type="dword" data="0000005b"/>
@@ -585,21 +577,9 @@
 				<value name="DndRKey" type="hex" data="a2"/>
 				<value name="WndDragKey" type="dword" data="00121101"/>
 			</key>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-			<key name="Tasks" modified="2016-08-18 10:00:21" build="160522">
-				<value name="Count" type="long" data="11"/>
-				<key name="Task1" modified="2016-08-18 10:00:21" build="160522">
-=======
-			<key name="Tasks" modified="2016-05-29 00:35:11" build="160301">
-				<value name="Count" type="long" data="11"/>
-				<key name="Task1" modified="2016-05-29 00:35:11" build="160301">
->>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
-=======
 			<key name="Tasks" modified="2016-09-02 00:56:37" build="160301">
 				<value name="Count" type="long" data="11"/>
 				<key name="Task1" modified="2016-09-02 00:56:37" build="160301">
->>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Shells::cmd}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -608,15 +588,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-				<key name="Task2" modified="2016-08-18 10:00:21" build="160522">
-=======
-				<key name="Task2" modified="2016-05-29 00:35:11" build="160301">
->>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
-=======
 				<key name="Task2" modified="2016-09-02 00:56:37" build="160301">
->>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Shells::cmd (Admin)}"/>
 					<value name="Flags" type="dword" data="00000003"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -625,15 +597,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-				<key name="Task3" modified="2016-08-18 10:00:21" build="160522">
-=======
-				<key name="Task3" modified="2016-05-29 00:35:11" build="160301">
->>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
-=======
 				<key name="Task3" modified="2016-09-02 00:56:37" build="160301">
->>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Shells::cmd-32}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -642,15 +606,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-				<key name="Task4" modified="2016-08-18 10:00:21" build="160522">
-=======
-				<key name="Task4" modified="2016-05-29 00:35:11" build="160301">
->>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
-=======
 				<key name="Task4" modified="2016-09-02 00:56:37" build="160301">
->>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Shells::cmd 64/32}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -660,15 +616,7 @@
 					<value name="Active" type="long" data="1"/>
 					<value name="Count" type="long" data="2"/>
 				</key>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-				<key name="Task5" modified="2016-08-18 10:00:21" build="160522">
-=======
-				<key name="Task5" modified="2016-05-29 00:35:11" build="160301">
->>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
-=======
 				<key name="Task5" modified="2016-09-02 00:56:37" build="160301">
->>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Shells::PowerShell}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -677,15 +625,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-				<key name="Task6" modified="2016-08-18 10:00:21" build="160522">
-=======
-				<key name="Task6" modified="2016-05-29 00:35:11" build="160301">
->>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
-=======
 				<key name="Task6" modified="2016-09-02 00:56:37" build="160301">
->>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Shells::PowerShell (Admin)}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -694,15 +634,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-				<key name="Task7" modified="2016-08-18 10:00:21" build="160522">
-=======
-				<key name="Task7" modified="2016-05-29 00:35:11" build="160301">
->>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
-=======
 				<key name="Task7" modified="2016-09-02 00:56:37" build="160301">
->>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Tests::Show ANSI colors}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -711,15 +643,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-				<key name="Task8" modified="2016-08-18 10:00:21" build="160522">
-=======
-				<key name="Task8" modified="2016-05-29 00:35:11" build="160301">
->>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
-=======
 				<key name="Task8" modified="2016-09-02 00:56:37" build="160301">
->>>>>>> Stashed changes
 					<value name="Name" type="string" data="{Scripts::Chocolatey (Admin)}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -728,15 +652,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-				<key name="Task9" modified="2016-08-18 10:00:21" build="160522">
-=======
-				<key name="Task9" modified="2016-05-29 00:35:11" build="160301">
->>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
-=======
 				<key name="Task9" modified="2016-09-02 00:56:37" build="160301">
->>>>>>> Stashed changes
 					<value name="Name" type="string" data="{putty}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
@@ -745,15 +661,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-				<key name="Task10" modified="2016-08-18 10:00:21" build="160522">
-=======
-				<key name="Task10" modified="2016-05-29 00:35:11" build="160301">
->>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
-=======
 				<key name="Task10" modified="2016-09-02 00:56:37" build="160301">
->>>>>>> Stashed changes
 					<value name="Name" type="string" data="{one::release}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="0010124f"/>
@@ -762,15 +670,7 @@
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-				<key name="Task11" modified="2016-08-18 10:00:21" build="160522">
-=======
-				<key name="Task11" modified="2016-05-29 00:35:11" build="160301">
->>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
-=======
 				<key name="Task11" modified="2016-09-02 00:56:37" build="160301">
->>>>>>> Stashed changes
 					<value name="Name" type="string" data="{gvim}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00101247"/>
@@ -780,24 +680,10 @@
 					<value name="Count" type="long" data="1"/>
 				</key>
 			</key>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-			<key name="Apps" modified="2016-08-18 10:00:21" build="160522">
-				<value name="Count" type="long" data="0"/>
-			</key>
-			<key name="Colors" modified="2016-08-18 10:00:21" build="160522">
-=======
-			<key name="Apps" modified="2016-05-29 00:35:11" build="160301">
-				<value name="Count" type="long" data="0"/>
-			</key>
-			<key name="Colors" modified="2016-05-29 00:35:11" build="160301">
->>>>>>> 0de4ac01889d44e3648ecb6ae834f0a224348038
-=======
 			<key name="Apps" modified="2016-09-02 00:56:37" build="160301">
 				<value name="Count" type="long" data="0"/>
 			</key>
 			<key name="Colors" modified="2016-09-02 00:56:37" build="160301">
->>>>>>> Stashed changes
 				<value name="Count" type="long" data="0"/>
 			</key>
 		</key>

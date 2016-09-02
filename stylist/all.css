@@ -9,3 +9,11 @@
 .W_ficon {
     font-family: "wbficonregular", serif !important;
 }
+
+.glyphicon {
+    font-family: 'Glyphicons Halflings', serif !important;
+}
+
+.bts {
+    font-family: 'Black Tie', serif !important;
+}
