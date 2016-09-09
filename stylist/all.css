@@ -17,3 +17,7 @@
 .bts {
     font-family: 'Black Tie', serif !important;
 }
+
+i[class^=icon-] {
+    font-family: "FontAwesome", serif !important;
+}
