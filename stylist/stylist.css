@@ -25,3 +25,7 @@ i[class^=icon-] {
 .main-header .sidebar-toggle {
     font-family: "FontAwesome", serif !important;
 }
+
+i.icon.icon-lg {
+    font-family: "FontAwesome", serif !important;
+}
