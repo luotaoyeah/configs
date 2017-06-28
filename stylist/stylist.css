@@ -1,9 +1,5 @@
 * {
-    font-family: "宋体", "宋体", sans-serif !important;
-}
-
-.fa {
-    font-family: "FontAwesome", serif !important;
+    font-family: "LT", "LT", sans-serif !important;
 }
 
 .W_ficon {
@@ -18,15 +14,10 @@
     font-family: 'Black Tie', serif !important;
 }
 
-i[class^=icon-] {
-    font-family: "FontAwesome", serif !important;
-}
-
-.main-header .sidebar-toggle {
-    font-family: "FontAwesome", serif !important;
-}
-
+.fa,
+i[class^=icon-],
 i.icon.icon-lg,
+.main-header .sidebar-toggle,
 span.icon.icon-lg {
     font-family: "FontAwesome", serif !important;
 }
