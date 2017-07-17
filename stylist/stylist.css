@@ -16,6 +16,8 @@
 
 .fa,
 i[class^=icon-],
+span[class^=icon-],
+span[class*=" icon-"],
 i.icon.icon-lg,
 .main-header .sidebar-toggle,
 span.icon.icon-lg {
