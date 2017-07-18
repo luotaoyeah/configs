@@ -1,7 +1,5 @@
 # 个人常用软件配置
 
----
-
 1. [ConEmu](http://conemu.github.io/)
 
 2. [Intellij IDEA](https://www.jetbrains.com/idea/)
