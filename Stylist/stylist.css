@@ -1,25 +1,25 @@
 * {
-    font-family: "LT", "LT", sans-serif !important;
+  font-family: "LT", "LT", sans-serif !important;
 }
 
 .W_ficon {
-    font-family: "wbficonregular", serif !important;
+  font-family: "wbficonregular", serif !important;
 }
 
 .glyphicon {
-    font-family: 'Glyphicons Halflings', serif !important;
+  font-family: 'Glyphicons Halflings', serif !important;
 }
 
 .bts {
-    font-family: 'Black Tie', serif !important;
+  font-family: 'Black Tie', serif !important;
 }
 
 .fa,
 i[class^=icon-],
 span[class^=icon-],
 span[class*=" icon-"],
-i.icon.icon-lg,
+i.icon,
 .main-header .sidebar-toggle,
 span.icon.icon-lg {
-    font-family: "FontAwesome", serif !important;
+  font-family: "FontAwesome", serif !important;
 }
