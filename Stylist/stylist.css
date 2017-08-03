@@ -1,5 +1,5 @@
 * {
-  font-family: "LT", "LT", sans-serif !important;
+  font-family: "宋体", "宋体", sans-serif !important;
 }
 
 .W_ficon {
@@ -22,4 +22,9 @@ i.icon,
 .main-header .sidebar-toggle,
 span.icon.icon-lg {
   font-family: "FontAwesome", serif !important;
+}
+
+[class^="dicticon-"],
+[class*=" dicticon-"]:before {
+  font-family: "dictionary-fonticon", serif !important;
 }
