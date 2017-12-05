@@ -28,3 +28,8 @@ span.icon.icon-lg {
 [class*=" dicticon-"]:before {
   font-family: "dictionary-fonticon", serif !important;
 }
+
+/* nexus repository manager*/
+span.x-btn-glyph {
+  font-family: "FontAwesome", serif !important;
+}
