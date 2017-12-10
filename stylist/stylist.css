@@ -15,8 +15,8 @@
 }
 
 .fa,
-i[class^=icon-],
-span[class^=icon-],
+i[class^="icon-"],
+span[class^="icon-"],
 span[class*=" icon-"],
 i.icon,
 .main-header .sidebar-toggle,
@@ -41,4 +41,9 @@ span.x-btn-glyph {
 /* onedrive */
 .ms-Icon {
   font-family: FabricMDL2Icons, FabricMDL2Icons-0, FabricMDL2Icons-1, FabricMDL2Icons-2, FabricMDL2Icons-3, FabricMDL2Icons-4, FabricMDL2Icons-5, FabricMDL2Icons-6, FabricMDL2Icons-7, sans-serif !important;
+}
+
+/* vultr.com */
+[class^="fonticon"] {
+  font-family: "Material-Design-Iconic-Font", sans-serif !important;
 }
