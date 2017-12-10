@@ -24,6 +24,10 @@ span.icon.icon-lg {
   font-family: "FontAwesome", serif !important;
 }
 
+.fas {
+  font-family: FontAwesomeSite, sans-serif !important;
+}
+
 [class^="dicticon-"],
 [class*=" dicticon-"]:before {
   font-family: "dictionary-fonticon", serif !important;
@@ -32,4 +36,9 @@ span.icon.icon-lg {
 /* nexus repository manager*/
 span.x-btn-glyph {
   font-family: "FontAwesome", serif !important;
+}
+
+/* onedrive */
+.ms-Icon {
+  font-family: FabricMDL2Icons, FabricMDL2Icons-0, FabricMDL2Icons-1, FabricMDL2Icons-2, FabricMDL2Icons-3, FabricMDL2Icons-4, FabricMDL2Icons-5, FabricMDL2Icons-6, FabricMDL2Icons-7, sans-serif !important;
 }
