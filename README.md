@@ -2,6 +2,7 @@
 
 1. [ConEmu](http://conemu.github.io/)
 2. [Intellij IDEA](https://www.jetbrains.com/idea/)
-3. [PotPlayer](http://potplayer.daum.net/)
-4. [Stylist](https://chrome.google.com/webstore/detail/stylist/pabfempgigicdjjlccdgnbmeggkbjdhd)
-5. [Vim](http://www.vim.org/)
+3. [iTerm2](https://www.iterm2.com/)
+4. [PotPlayer](http://potplayer.daum.net/)
+5. [Stylist](https://chrome.google.com/webstore/detail/stylist/pabfempgigicdjjlccdgnbmeggkbjdhd)
+6. [Vim](http://www.vim.org/)
