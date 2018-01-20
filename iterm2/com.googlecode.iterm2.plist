@@ -73,12 +73,14 @@
 	</data>
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
+	<key>NSWindow Frame SessionsPreferences</key>
+	<string>527 117 606 469 0 0 1920 1057 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>1006 386 918 401 0 0 1920 1057 </string>
+	<string>539 189 918 381 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>206 409 694 344 0 0 1920 1057 </string>
+	<string>387 181 970 470 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>247 107 1130 560 0 0 1920 1057 </string>
+	<string>393 553 466 106 0 0 1920 1057 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -256,6 +258,8 @@
 			</dict>
 			<key>Blend</key>
 			<real>0.24392152443910259</real>
+			<key>Blink Allowed</key>
+			<false/>
 			<key>Blinking Cursor</key>
 			<true/>
 			<key>Blur</key>
@@ -722,12 +726,20 @@
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>C36D689B-FA31-4A7A-B777-D4972FE0443B</string>
+	<key>NoSyncLastTipTime</key>
+	<real>537842271.66507494</real>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
 	<integer>0</integer>
+	<key>NoSyncPermissionToShowTip</key>
+	<true/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>537625662.65435302</real>
+	<key>NoSyncTipsToNotShow</key>
+	<array>
+		<string>000</string>
+	</array>
 	<key>OpenArrangementAtStartup</key>
 	<false/>
 	<key>OpenNoWindowsAtStartup</key>
@@ -778,7 +790,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-01-14T12:47:42Z</date>
+	<date>2018-01-17T00:37:52Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -793,10 +805,12 @@
 	<false/>
 	<key>TabStyle</key>
 	<integer>0</integer>
+	<key>TabViewType</key>
+	<integer>0</integer>
 	<key>UseBorder</key>
 	<false/>
 	<key>WindowNumber</key>
-	<true/>
+	<false/>
 	<key>iTerm Version</key>
 	<string>3.1.5</string>
 </dict>
