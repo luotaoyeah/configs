@@ -74,13 +74,17 @@
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
 	<key>NSWindow Frame SessionsPreferences</key>
-	<string>527 117 606 469 0 0 1920 1057 </string>
+	<string>269 126 606 469 0 0 1920 1057 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>539 231 918 452 0 0 1920 1057 </string>
+	<string>852 217 918 401 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>470 297 970 470 0 0 1920 1057 </string>
+	<string>592 278 970 470 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>393 189 970 470 0 0 1920 1057 </string>
+	<string>247 107 970 470 0 0 1920 1057 </string>
+	<key>NeverWarnAboutShortLivedSessions_0BEBE07C-BD9F-425A-9BC1-63AADAD171E2</key>
+	<true/>
+	<key>NeverWarnAboutShortLivedSessions_0BEBE07C-BD9F-425A-9BC1-63AADAD171E2_selection</key>
+	<integer>0</integer>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -725,9 +729,9 @@
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
-	<string>C36D689B-FA31-4A7A-B777-D4972FE0443B</string>
+	<string>7FD6E7C8-F022-4DC0-9AC6-C9226EFB54F9</string>
 	<key>NoSyncLastTipTime</key>
-	<real>538237690.94386399</real>
+	<real>539175279.61332595</real>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -735,7 +739,7 @@
 	<key>NoSyncPermissionToShowTip</key>
 	<true/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
-	<real>537625662.65435302</real>
+	<real>538595128.06889606</real>
 	<key>NoSyncTipsToNotShow</key>
 	<array>
 		<string>000</string>
@@ -790,11 +794,11 @@
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/final.xml?shard=95</string>
+	<string>https://iterm2.com/appcasts/final.xml?shard=76</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-01-21T05:38:33Z</date>
+	<date>2018-02-02T00:46:49Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
