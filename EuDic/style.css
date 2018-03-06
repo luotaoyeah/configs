@@ -146,6 +146,10 @@ strike {
   align-items: center;
 }
 
+#CustomNote {
+  display: none;
+}
+
 #CustomNote button {
   background: #C0E8FF;
   border: 1px solid #7395C6;

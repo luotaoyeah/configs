@@ -28,10 +28,11 @@ body #ID1544152972child {
 
 #ID1544152972child .C1_word_header {
   height: 28px;
-  background-color: #EFEDE0;
+  background-color: #019098;
   margin: 15px 0 0 0;
   padding: 0;
-  border-top: 2px solid #000000;
+  border: 2px solid #000000;
+  border-radius: 3px;
   overflow: hidden;
 }
 
@@ -58,16 +59,16 @@ body #ID1544152972child {
   color: #C00000;
   margin: 0;
   padding: 0;
-  display: block;
   float: left;
+  display: none;
 }
 
 #ID1544152972child .C1_color_bar {
   height: 28px;
   margin: 0;
   padding: 0;
-  display: block;
   float: right;
+  display: none;
 }
 
 #ID1544152972child .C1_color_bar ul {
@@ -197,7 +198,7 @@ body #ID1544152972child {
   font-family: "微软雅黑";
   font-size: 12px;
   font-weight: normal;
-  line-height: 19px;
+  line-height: 20px;
   min-height: 18px;
   color: #000000;
   display: block;
@@ -255,6 +256,8 @@ body #ID1544152972child {
   padding: 8px;
   margin: 10px 12px;
   border: 1px dotted #000000;
+  font-family: Monaco, serif !important;
+  font-size: 11px !important;
 }
 
 #ID1544152972child .C1_en_tip p {
@@ -284,7 +287,8 @@ body #ID1544152972child {
   background-color: #F6F6F6;
   padding: 8px;
   margin: 10px 0;
-  border: 1px dotted #000000;
+  border: 1px solid #DDDDDD;
+  border-radius: 3px;
 }
 
 #ID1544152972child .C1_explanation_item ul li.C1_en_tip .C1_text_blue {
