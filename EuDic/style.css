@@ -178,14 +178,15 @@ strike {
 
 #phondiv > a > img {
   position: relative;
-  top: 2px;
+  vertical-align: bottom;
+  margin-right: -5px;
 }
 
 #phondiv > a {
   margin-right: 10px;
   border: 1px solid #DDDDDD;
   border-radius: 3px;
-  padding: 5px 10px 4px;
+  padding: 5px;
 }
 
 #cgListDiv {
@@ -330,7 +331,7 @@ strike {
 .Phonitic {
   color: #0000FF;
   font-family: Monaco, serif !important;
-  font-size: 10pt;
+  font-size: 11px;
   color: gray;
 }
 
