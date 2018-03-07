@@ -1,17 +1,17 @@
 # My personal configuration files.
 
-*. [ConEmu](http://conemu.github.io/)
+* [ConEmu](http://conemu.github.io/)
 
-*. [EuDic](http://www.eudic.net)
+* [EuDic](http://www.eudic.net)
 
-*. [Intellij IDEA](https://www.jetbrains.com/idea/)
+* [Intellij IDEA](https://www.jetbrains.com/idea/)
 
-*. [iTerm2](https://www.iterm2.com/)
+* [iTerm2](https://www.iterm2.com/)
 
-*. [PotPlayer](http://potplayer.daum.net/)
+* [PotPlayer](http://potplayer.daum.net/)
 
-*. ~~[Stylist](https://chrome.google.com/webstore/detail/stylist/pabfempgigicdjjlccdgnbmeggkbjdhd)~~
+* ~~[Stylist](https://chrome.google.com/webstore/detail/stylist/pabfempgigicdjjlccdgnbmeggkbjdhd)~~
 
-*. [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
+* [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
 
-*. [Vim](http://www.vim.org/)
+* [Vim](http://www.vim.org/)
