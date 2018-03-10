@@ -169,34 +169,39 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_item_number a {
-  font-family: "PingFang SC" !important;
+  font-family: "PingFang SC", serif !important;
   font-size: 12px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: 15px;
   height: 14px;
-  color: #000000;
-  background-color: #B5DEEB;
+  color: #FFFFFF;
+  background-color: #333333;
   margin-top: 2px;
-  padding: 0 7px;
-  border: 1px solid #FFFFFF;
+  padding: 0;
+  border: none;
   border-radius: 2px;
   display: block;
   float: left;
+  width: 30px;
+  text-align: center;
 }
 
 #ID1544152972child .C1_item_number a:hover {
+  font-family: "PingFang SC", serif !important;
   font-size: 12px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: 15px;
   height: 14px;
-  background-color: #019098;
   color: #FFFFFF;
+  background-color: #333333;
   margin-top: 2px;
-  padding: 0 7px;
-  border: 1px solid #FFFFFF;
-  border-radius: 3px;
+  padding: 0;
+  border: none;
+  border-radius: 2px;
   display: block;
   float: left;
+  width: 30px;
+  text-align: center;
 }
 
 #ID1544152972child .C1_explanation_label {
