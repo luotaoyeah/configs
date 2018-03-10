@@ -17,6 +17,10 @@ body #ID1544152972child {
   line-height: 19px;
 }
 
+#ID1544152972child .collins_content {
+  padding-top: 10px;
+}
+
 #ID1544152972child p {
   font-family: Monaco, "微软雅黑" !important;
   font-size: 11px;
@@ -34,6 +38,7 @@ body #ID1544152972child {
   border: 2px solid #000000;
   border-radius: 3px;
   overflow: hidden;
+  display: none;
 }
 
 #ID1544152972child .C1_word_header_word {
