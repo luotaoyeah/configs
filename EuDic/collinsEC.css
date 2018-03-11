@@ -518,7 +518,8 @@ body #ID1544152972child {
   background-color: #F6F6F6;
   margin: 10px 12px;
   padding: 8px;
-  border: 1px dotted #000000;
+  border: 1px dashed #DDDDDD;
+  border-radius: 3px;
 }
 
 #ID1544152972child .C1_vEn_tip {

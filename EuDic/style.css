@@ -90,7 +90,6 @@ strike {
 .expDiv {
   margin-top: 5px;
   padding-top: 5px;
-  border-top: 1px solid #DDDDDD;
 }
 
 .explain_wrap h1 {
@@ -139,11 +138,18 @@ strike {
   clear: both;
   line-height: 140%;
   overflow: hidden;
+  border-radius: 3px;
+  border: 2px solid #006699;
+  padding: 3px 3px 3px 5px;
 }
 
 .expHead a {
   display: flex;
   align-items: center;
+}
+
+.expHead img {
+  display: none;
 }
 
 #CustomNote {
@@ -1540,6 +1546,7 @@ body.green .linkTable {
 
 #ID1850669942 .expDiv {
   font-family: Monaco, serif !important;
+  font-size: 12px;
 }
 
 #ID1850669942 .expDiv > b {
