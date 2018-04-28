@@ -47,3 +47,9 @@ span.x-btn-glyph {
 [class^="fonticon"] {
   font-family: "Material-Design-Iconic-Font", sans-serif !important;
 }
+
+/* developer.mozilla.org */
+[class*=' ic-'],
+[class^=ic-] {
+  font-family: compat-icons, serif !important;
+}
