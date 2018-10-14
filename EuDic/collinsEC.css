@@ -1,4 +1,6 @@
-/* /var/folders/dw/llx1jnhx0pv6hq5fxq5tjnsr0000gn/T/com.eusoft.eudic.QuickLook/1544152972_mdx_1/collinsEC.css */
+/*
+/var/folders/dw/llx1jnhx0pv6hq5fxq5tjnsr0000gn/T/com.eusoft.eudic.QuickLook/1544152972_mdx_1/collinsEC.css
+*/
 
 #ID1544152972child * {
   text-decoration: none;
@@ -220,6 +222,7 @@ body #ID1544152972child {
   font-weight: normal;
   line-height: 19px;
   color: darkblue !important;
+  display: block;
 }
 
 #ID1544152972child .C1_word_gram {

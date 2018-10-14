@@ -1,4 +1,6 @@
-/* /Applications/Eudic.app/Contents/Library/LoginItems/LightPeek_en.app/Contents/Resources/Html/style.css */
+/*
+/Applications/Eudic.app/Contents/Library/LoginItems/LightPeek_en.app/Contents/Resources/Html/style.css
+*/
 
 /* @group Page */
 body,
@@ -179,8 +181,9 @@ strike {
 }
 
 #phondiv {
-  display: none;
-  line-height: 140%;
+  line-height: 300%;
+  margin-bottom: -15px;
+  display: inline-block 
 }
 
 #phondiv > a > img {
@@ -193,7 +196,7 @@ strike {
   margin-right: 10px;
   border: 1px solid #DDDDDD;
   border-radius: 3px;
-  padding: 5px;
+  padding: 5px 10px;
 }
 
 #cgListDiv {
