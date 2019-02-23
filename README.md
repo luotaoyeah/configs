@@ -2,6 +2,8 @@
 
 * [ConEmu](http://conemu.github.io/)
 
+* [Cmder](http://cmder.net/)
+
 * [EuDic](http://www.eudic.net)
 
 * [Intellij IDEA](https://www.jetbrains.com/idea/)

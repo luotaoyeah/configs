@@ -7,11 +7,11 @@
 }
 
 .glyphicon {
-  font-family: 'Glyphicons Halflings', serif !important;
+  font-family: "Glyphicons Halflings", serif !important;
 }
 
 .bts {
-  font-family: 'Black Tie', serif !important;
+  font-family: "Black Tie", serif !important;
 }
 
 .fa,
@@ -40,7 +40,9 @@ span.x-btn-glyph {
 
 /* onedrive */
 .ms-Icon {
-  font-family: FabricMDL2Icons, FabricMDL2Icons-0, FabricMDL2Icons-1, FabricMDL2Icons-2, FabricMDL2Icons-3, FabricMDL2Icons-4, FabricMDL2Icons-5, FabricMDL2Icons-6, FabricMDL2Icons-7, sans-serif !important;
+  font-family: FabricMDL2Icons, FabricMDL2Icons-0, FabricMDL2Icons-1,
+    FabricMDL2Icons-2, FabricMDL2Icons-3, FabricMDL2Icons-4, FabricMDL2Icons-5,
+    FabricMDL2Icons-6, FabricMDL2Icons-7, sans-serif !important;
 }
 
 /* vultr.com */
@@ -49,7 +51,12 @@ span.x-btn-glyph {
 }
 
 /* developer.mozilla.org */
-[class*=' ic-'],
-[class^=ic-] {
+[class*=" ic-"],
+[class^="ic-"] {
   font-family: compat-icons, serif !important;
+}
+
+/* google.com */
+.material-icons {
+  font-family: "Material Icons", serif !important;
 }
