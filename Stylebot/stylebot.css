@@ -48,7 +48,34 @@
   src: local("宋体");
 }
 
-/* code */
+@font-face {
+  font-family: Roboto;
+  src: local("宋体");
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local("宋体");
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local("宋体");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local("宋体");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Times New Roman";
+  src: local("宋体");
+}
+
+/* code -------------------------------------------------- */
 @font-face {
   font-family: CamingoCode;
   src: local("Monaco");
@@ -56,5 +83,26 @@
 
 @font-face {
   font-family: Consolas;
+  src: local("Monaco");
+}
+
+@font-face {
+  font-family: "Roboto Mono";
+  src: local("Monaco");
+}
+
+@font-face {
+  font-family: "Roboto Mono";
+  src: local("Monaco");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: monospace;
+  src: local("Monaco");
+}
+
+@font-face {
+  font-family: "monospace";
   src: local("Monaco");
 }
