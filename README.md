@@ -1,4 +1,4 @@
-# My personal configuration files.
+# My Personal Configuration Files.
 
 - [ConEmu](http://conemu.github.io/)
 

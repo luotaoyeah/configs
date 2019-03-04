@@ -4,8 +4,15 @@
 }
 
 @font-face {
-  font-family: "Source Sans Pro Semibold";
+  font-family: "Source Sans Pro";
   src: local("宋体");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: local("宋体");
+  font-weight: 600;
 }
 
 @font-face {
@@ -14,12 +21,12 @@
 }
 
 @font-face {
-  font-family: Helvetica;
+  font-family: "Helvetica";
   src: local("宋体");
 }
 
 @font-face {
-  font-family: Arial;
+  font-family: "Arial";
   src: local("宋体");
 }
 
@@ -34,22 +41,22 @@
 }
 
 @font-face {
-  font-family: Tahoma;
+  font-family: "Tahoma";
   src: local("宋体");
 }
 
 @font-face {
-  font-family: Georgia;
+  font-family: "Georgia";
   src: local("宋体");
 }
 
 @font-face {
-  font-family: SimSun;
+  font-family: "SimSun";
   src: local("宋体");
 }
 
 @font-face {
-  font-family: Roboto;
+  font-family: "Roboto";
   src: local("宋体");
 }
 
@@ -75,14 +82,24 @@
   src: local("宋体");
 }
 
+@font-face {
+  font-family: "Segoe UI";
+  src: local("宋体");
+}
+
+@font-face {
+  font-family: "Verdana";
+  src: local("宋体");
+}
+
 /* code -------------------------------------------------- */
 @font-face {
-  font-family: CamingoCode;
+  font-family: "CamingoCode";
   src: local("Monaco");
 }
 
 @font-face {
-  font-family: Consolas;
+  font-family: "Consolas";
   src: local("Monaco");
 }
 
@@ -99,10 +116,5 @@
 
 @font-face {
   font-family: monospace;
-  src: local("Monaco");
-}
-
-@font-face {
-  font-family: "monospace";
   src: local("Monaco");
 }
