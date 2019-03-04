@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <key name="Software">
 	<key name="ConEmu">
-		<key name=".Vanilla" modified="2018-12-14 12:05:07" build="180626">
+		<key name=".Vanilla" modified="2019-03-02 17:03:19" build="180626">
 			<value name="Language" type="string" data="en"/>
 			<value name="StartType" type="hex" data="02"/>
 			<value name="CmdLine" type="string" data=""/>
@@ -113,7 +113,7 @@
 			<value name="FontSizeX2" type="ulong" data="0"/>
 			<value name="FontSizeX3" type="ulong" data="14"/>
 			<value name="FontCharSet" type="hex" data="00"/>
-			<value name="Anti-aliasing" type="ulong" data="4"/>
+			<value name="Anti-aliasing" type="ulong" data="6"/>
 			<value name="FontBold" type="hex" data="00"/>
 			<value name="FontItalic" type="hex" data="00"/>
 			<value name="Monospace" type="hex" data="01"/>
@@ -135,11 +135,11 @@
 			<value name="Cascaded" type="hex" data="01"/>
 			<value name="IntegralSize" type="hex" data="00"/>
 			<value name="WindowMode" type="dword" data="00000520"/>
-			<value name="ConWnd X" type="long" data="22"/>
-			<value name="ConWnd Y" type="long" data="0"/>
+			<value name="ConWnd X" type="long" data="1590"/>
+			<value name="ConWnd Y" type="long" data="190"/>
 			<value name="LastMonitor" type="string" data="0,0,3840,2080"/>
-			<value name="ConWnd Width" type="dword" data="00000056"/>
-			<value name="ConWnd Height" type="dword" data="0000001f"/>
+			<value name="ConWnd Width" type="dword" data="0000007b"/>
+			<value name="ConWnd Height" type="dword" data="0000003e"/>
 			<value name="16bit Height" type="ulong" data="0"/>
 			<value name="QuakeStyle" type="hex" data="00"/>
 			<value name="Restore2ActiveMon" type="hex" data="00"/>
@@ -337,7 +337,7 @@
 			<value name="MinimizeOnLoseFocus" type="hex" data="00"/>
 			<value name="DisableFarFlashing" type="hex" data="00"/>
 			<value name="DisableAllFlashing" type="hex" data="00"/>
-			<value name="FindText" type="string" data="d.base#framework_2.11;1.0-S"/>
+			<value name="FindText" type="string" data="pm"/>
 			<value name="FindMatchCase" type="hex" data="00"/>
 			<value name="FindMatchWholeWords" type="hex" data="00"/>
 			<value name="FindTransparent" type="hex" data="00"/>
@@ -582,25 +582,25 @@
 				<value name="DndRKey" type="hex" data="A2"/>
 				<value name="WndDragKey" type="dword" data="00121101"/>
 			</key>
-			<key name="Tasks" modified="2018-11-06 09:48:13" build="180528">
-				<value name="Count" type="long" data="11"/>
-				<key name="Task1" modified="2018-10-18 19:48:32" build="180528">
+			<key name="Tasks" modified="2019-03-02 17:03:19" build="180626">
+				<value name="Count" type="long" data="10"/>
+				<key name="Task1" modified="2019-03-02 17:03:19" build="180626">
 					<value name="Name" type="string" data="{cmd::Cmder as Admin}"/>
-					<value name="Flags" type="dword" data="00000000"/>
+					<value name="Flags" type="dword" data="00000001"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
 					<value name="GuiArgs" type="string" data=' /icon "%CMDER_ROOT%\icons\cmder.ico"'/>
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
-					<value name="Cmd1" type="string" data='*cmd /k ""%ConEmuDir%\..\init.bat" "'/>
+					<value name="Cmd1" type="string" data='*cmd /k ""%ConEmuDir%\..\init.bat" " -new_console:d:D:\ '/>
 				</key>
-				<key name="Task2" modified="2018-10-18 19:48:32" build="180528">
+				<key name="Task2" modified="2019-03-02 17:03:19" build="180626">
 					<value name="Name" type="string" data="{cmd::Cmder}"/>
 					<value name="Flags" type="dword" data="00000000"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
 					<value name="GuiArgs" type="string" data=' /icon "%CMDER_ROOT%\icons\cmder.ico"'/>
 					<value name="Active" type="long" data="0"/>
 					<value name="Count" type="long" data="1"/>
-					<value name="Cmd1" type="string" data='cmd /k ""%ConEmuDir%\..\init.bat" "'/>
+					<value name="Cmd1" type="string" data='cmd /k ""%ConEmuDir%\..\init.bat" " -new_console:d:D:\ '/>
 				</key>
 				<key name="Task3" modified="2018-10-18 19:48:32" build="180528">
 					<value name="Name" type="string" data="{PowerShell::PowerShell as Admin}"/>
@@ -665,16 +665,7 @@
 					<value name="Count" type="long" data="1"/>
 					<value name="Cmd1" type="string" data='set "PATH=%ConEmuBaseDirShort%\wsl;%PATH%" &amp; %ConEmuBaseDirShort%\conemu-cyg-64.exe --wsl -cur_console:pm:/mnt'/>
 				</key>
-				<key name="Task10" modified="2018-11-05 22:12:13" build="180528">
-					<value name="Name" type="string" data="{ytd}"/>
-					<value name="Flags" type="dword" data="00000000"/>
-					<value name="Hotkey" type="dword" data="10121159"/>
-					<value name="GuiArgs" type="string" data=' /icon "%CMDER_ROOT%\icons\cmder.ico"'/>
-					<value name="Active" type="long" data="0"/>
-					<value name="Count" type="long" data="1"/>
-					<value name="Cmd1" type="string" data="-cur_console:s50H :d:D:\project\ytd\iam\iam-sso-front {cmd::Cmder}"/>
-				</key>
-				<key name="Task11" modified="2018-11-06 09:48:13" build="180528">
+				<key name="Task10" modified="2019-03-02 17:03:19" build="180626">
 					<value name="Name" type="string" data="{msys}"/>
 					<value name="Flags" type="dword" data="00000004"/>
 					<value name="Hotkey" type="dword" data="00000000"/>
