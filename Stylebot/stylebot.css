@@ -1,3 +1,7 @@
+* {
+  letter-spacing: 0.2px !important;
+}
+
 @font-face {
   font-family: "Source Sans Pro";
   src: local("宋体");
@@ -74,6 +78,30 @@
 @font-face {
   font-family: "Roboto";
   src: local("宋体");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local("宋体");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local("宋体");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local("宋体");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "RobotoDraft";
+  src: local("宋体");
   font-weight: 500;
 }
 
@@ -90,6 +118,28 @@
 @font-face {
   font-family: "Verdana";
   src: local("宋体");
+}
+
+@font-face {
+  font-family: "Lato";
+  src: local("宋体");
+}
+
+@font-face {
+  font-family: "Lato";
+  src: local("宋体");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Google Sans";
+  src: local("宋体");
+}
+
+@font-face {
+  font-family: "Google Sans";
+  src: local("宋体");
+  font-weight: 500;
 }
 
 /* code -------------------------------------------------- */
