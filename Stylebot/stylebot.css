@@ -1,10 +1,24 @@
-* {
-  letter-spacing: 0.2px !important;
+@font-face {
+  font-family: "Source Sans Pro";
+  src: local("宋体");
 }
 
 @font-face {
   font-family: "Source Sans Pro";
   src: local("宋体");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: local("宋体");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: local("宋体");
+  font-weight: 600;
 }
 
 @font-face {
@@ -14,9 +28,14 @@
 }
 
 @font-face {
-  font-family: "Source Sans Pro";
+  font-family: "Poppins";
   src: local("宋体");
-  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: local("宋体");
+  font-weight: 500;
 }
 
 @font-face {
@@ -32,6 +51,12 @@
 @font-face {
   font-family: "Arial";
   src: local("宋体");
+}
+
+@font-face {
+  font-family: "Arial";
+  src: local("宋体");
+  font-weight: 400;
 }
 
 @font-face {
@@ -142,6 +167,40 @@
   font-weight: 500;
 }
 
+@font-face {
+  font-family: "DejaVuSans";
+  src: local("宋体");
+}
+
+@font-face {
+  font-family: "DejaVuSans";
+  src: local("宋体");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "DejaVuSans";
+  src: local("宋体");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "DejaVu Sans";
+  src: local("宋体");
+}
+
+@font-face {
+  font-family: "DejaVu Sans";
+  src: local("宋体");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "DejaVu Sans";
+  src: local("宋体");
+  font-weight: bold;
+}
+
 /* code -------------------------------------------------- */
 @font-face {
   font-family: "CamingoCode";
@@ -167,4 +226,25 @@
 @font-face {
   font-family: monospace;
   src: local("Monaco");
+}
+
+@font-face {
+  font-family: "DejaVuSansMono";
+  src: local("Monaco");
+}
+
+@font-face {
+  font-family: "DejaVuSansMono";
+  src: local("Monaco");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Fira Mono";
+  src: local("Monaco");
+  font-weight: 300;
+}
+
+code {
+  font-family: "Monaco" !important;
 }
