@@ -201,6 +201,41 @@
   font-weight: bold;
 }
 
+@font-face {
+  font-family: "medium-content-serif-font";
+  src: local("宋体");
+}
+
+@font-face {
+  font-family: "medium-content-serif-font";
+  src: local("宋体");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "medium-content-sans-serif-font";
+  src: local("宋体");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "medium-content-sans-serif-font";
+  src: local("宋体");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: local("宋体");
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: local("宋体");
+  font-weight: 300;
+}
+
 /* code -------------------------------------------------- */
 @font-face {
   font-family: "CamingoCode";
