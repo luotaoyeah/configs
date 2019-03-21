@@ -236,6 +236,17 @@
   font-weight: 300;
 }
 
+@font-face {
+  font-family: "Open Sans";
+  src: local("宋体");
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: local("宋体");
+  font-weight: 700;
+}
+
 /* code -------------------------------------------------- */
 @font-face {
   font-family: "CamingoCode";
