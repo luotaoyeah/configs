@@ -1,10 +1,6 @@
 {
   "name": "luotao-configs",
-  "version": "1.0.0",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/luotaoyeah/luotao-configs.git"
-  },
+  "version": "0.0.1",
   "author": "luotao",
   "devDependencies": {
     "prettier": "^1.16.4"
