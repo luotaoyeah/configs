@@ -303,6 +303,34 @@
   font-weight: 300;
 }
 
+@font-face {
+  font-family: "Droid Sans Mono";
+  src: local("Monaco");
+}
+
+@font-face {
+  font-family: "Droid Sans Mono";
+  src: local("Monaco");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "RobotoMono";
+  src: local("Monaco");
+}
+
+@font-face {
+  font-family: "RobotoMono";
+  src: local("Monaco");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "RobotoMono";
+  src: local("Monaco");
+  font-weight: 600;
+}
+
 code {
   font-family: "Monaco" !important;
 }
