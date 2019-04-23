@@ -247,7 +247,10 @@
   font-weight: 700;
 }
 
-/* code -------------------------------------------------- */
+/*
+ * code
+ * --------------------------------------------------
+ */
 @font-face {
   font-family: "CamingoCode";
   src: local("Monaco");
@@ -332,5 +335,12 @@
 }
 
 code {
+  font-family: "Monaco" !important;
+}
+
+/*
+ * --------------------------------------------------
+ */
+pre {
   font-family: "Monaco" !important;
 }
