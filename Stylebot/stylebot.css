@@ -60,6 +60,12 @@
 }
 
 @font-face {
+  font-family: "Arial";
+  src: local("宋体");
+  font-weight: 700;
+}
+
+@font-face {
   font-family: "微软雅黑";
   src: local("宋体");
 }
