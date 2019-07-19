@@ -1,8 +1,10 @@
 {
-  "name": "luotao-configs",
+  "name": "@luotao/configs",
   "version": "0.0.1",
   "author": "luotao",
   "devDependencies": {
-    "prettier": "^1.16.4"
+    "husky": "^3.0.1",
+    "lint-staged": "^9.2.0",
+    "prettier": "^1.18.2"
   }
 }
