@@ -1,6 +1,6 @@
 /*
- *  /Applications/Eudic.app/Contents/Library/LoginItems/LightPeek_en.app/Contents/Resources/Html/style.css
- * C:\Program Files (x86)\eudic\dat\res\style.css
+ * MAC：/Applications/Eudic.app/Contents/Library/LoginItems/LightPeek_en.app/Contents/Resources/Html
+ * WIN：C:\Program Files (x86)\eudic\dat\res
  */
 
 /* @group Page */
@@ -10,7 +10,7 @@ th {
   color: #4e4e4e !important;
   overflow: auto !important;
   font-size: 10pt;
-  font-family: "PingFang SC", sans-serif !important;
+  font-family: 'PingFang SC', sans-serif !important;
 }
 
 body {
@@ -20,17 +20,17 @@ body {
 
 @font-face {
   font-family: KK;
-  src: url("kk.ttf");
+  src: url('kk.ttf');
 }
 
 @font-face {
   font-family: Kingsoft Phonetic Plain;
-  src: url("kingsoft.ttf");
+  src: url('kingsoft.ttf');
 }
 
 @font-face {
   font-family: BlueIpa;
-  src: url("Ipa.ttf");
+  src: url('Ipa.ttf');
   font-style: normal;
   font-weight: normal;
 }
@@ -61,7 +61,7 @@ a:hover {
 .wclear:after {
   clear: both;
   display: table;
-  content: "";
+  content: '';
 }
 
 /*高亮使用*/
@@ -448,11 +448,11 @@ strike {
 }
 
 .gv_content .gv_item .like {
-  background: url("global.png") 0 -60px no-repeat;
+  background: url('global.png') 0 -60px no-repeat;
 }
 
 .gv_content .gv_item .disLike {
-  background: url("global.png") 0px -75px no-repeat;
+  background: url('global.png') 0px -75px no-repeat;
 }
 
 .gv_content .gv_item .likeItem a {
@@ -465,20 +465,20 @@ strike {
   cursor: pointer;
 }
 
-.gv_content .gv_item .likeItem[data-show="false"]:hover .like {
-  background: url("global.png") 0 -30px no-repeat;
+.gv_content .gv_item .likeItem[data-show='false']:hover .like {
+  background: url('global.png') 0 -30px no-repeat;
 }
 
-.gv_content .gv_item .likeItem[data-show="false"]:hover .disLike {
-  background: url("global.png") 0 -45px no-repeat;
+.gv_content .gv_item .likeItem[data-show='false']:hover .disLike {
+  background: url('global.png') 0 -45px no-repeat;
 }
 
-.gv_content .gv_item .likeItem[data-show="true"] .like {
-  background: url("global.png") 0 -30px no-repeat;
+.gv_content .gv_item .likeItem[data-show='true'] .like {
+  background: url('global.png') 0 -30px no-repeat;
 }
 
-.gv_content .gv_item .likeItem[data-show="true"] .disLike {
-  background: url("global.png") 0 -45px no-repeat;
+.gv_content .gv_item .likeItem[data-show='true'] .disLike {
+  background: url('global.png') 0 -45px no-repeat;
 }
 
 .gv_content .gv_person,
@@ -572,13 +572,7 @@ strike {
   padding: 2px 4px;
   -webkit-border-radius: 3px;
   color: #000000;
-  background: -webkit-gradient(
-    linear,
-    left bottom,
-    left top,
-    color-stop(0.04, #edd100),
-    color-stop(0.52, #f1ed00)
-  );
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0.04, #edd100), color-stop(0.52, #f1ed00));
 }
 
 .eudicCgTip {
@@ -663,8 +657,8 @@ strike {
   border-color: #c7e0fe;
 }
 
-#trans_text_wrap input[type="button"],
-#trans_langsel input[type="button"] {
+#trans_text_wrap input[type='button'],
+#trans_langsel input[type='button'] {
   background: #c0e8ff;
   border: 1px solid #7395c6;
 }
@@ -742,7 +736,7 @@ strike {
 
 .ifShow {
   display: none;
-  background: url("arrow.png") no-repeat;
+  background: url('arrow.png') no-repeat;
   background-size: auto 100%;
   margin-left: 15px;
   text-indent: 24px;
@@ -844,11 +838,11 @@ strike {
 /* @end */
 /* Babylon dictionaries */
 .bgltrn:before {
-  content: "[";
+  content: '[';
 }
 
 .bgltrn:after {
-  content: "]";
+  content: ']';
 }
 
 .bgltrn {
@@ -1111,7 +1105,7 @@ strike {
 
 .lj_item .channel_title {
   color: #9fa0a1;
-  font-family: "微软雅黑", "黑体", sans-serif;
+  font-family: '微软雅黑', '黑体', sans-serif;
   font-size: 0;
   text-indent: -999em;
   overflow: hidden;
@@ -1123,7 +1117,7 @@ strike {
   top: 0;
   left: 0;
   visibility: hidden;
-  background: url("ting_play_tip.png") 0 0 no-repeat;
+  background: url('ting_play_tip.png') 0 0 no-repeat;
 }
 
 .lj_item .content {
@@ -1196,7 +1190,7 @@ ul#lucene-list {
 .globalVoiceLink {
   display: inline-block;
   display: none;
-  background: url("earth_voice_icon.png") left 1.5px no-repeat;
+  background: url('earth_voice_icon.png') left 1.5px no-repeat;
   background-size: 15px auto;
   padding-left: 23px;
   margin-left: 5px;
@@ -1214,7 +1208,7 @@ ul#lucene-list {
 }
 
 .explain_wrap .humanSpeak:before {
-  content: " ";
+  content: ' ';
 }
 
 .explain_wrap p.exp {
@@ -1473,10 +1467,10 @@ ul#lucene-list {
 }
 
 .eudic_tiku_topic ul li:before {
-  content: " ";
+  content: ' ';
   width: 14px;
   height: 14px;
-  background: url("default/tiku_item_not_click@2x.png") center center;
+  background: url('default/tiku_item_not_click@2x.png') center center;
   background-repeat: no-repeat;
   background-size: 14px 14px;
   position: absolute;
@@ -1485,8 +1479,8 @@ ul#lucene-list {
 }
 
 .eudic_tiku_topic ul li.clickThis:before {
-  content: " ";
-  background: url("default/tiku_item_has_click@2x.png") center center;
+  content: ' ';
+  background: url('default/tiku_item_has_click@2x.png') center center;
   background-repeat: no-repeat;
   background-size: 14px 14px;
 }
@@ -1535,7 +1529,7 @@ body.green .linkTable {
   width: 54px;
   height: 54px;
   display: inline-block;
-  background: url("updown.gif") center -70px no-repeat;
+  background: url('updown.gif') center -70px no-repeat;
 }
 
 #scrollToTop:hover {
@@ -1543,7 +1537,7 @@ body.green .linkTable {
 }
 
 #scrollToTop:hover #topBtn a {
-  background: url("updown.gif") center 0px no-repeat;
+  background: url('updown.gif') center 0px no-repeat;
 }
 
 #eudic_wordtag_info {

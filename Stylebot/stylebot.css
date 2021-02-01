@@ -1,255 +1,255 @@
 @font-face {
-  font-family: "Source Sans Pro";
-  src: local("宋体");
+  font-family: 'Source Sans Pro';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Source Sans Pro";
-  src: local("宋体");
+  font-family: 'Source Sans Pro';
+  src: local('宋体');
   font-weight: 400;
 }
 
 @font-face {
-  font-family: "Source Sans Pro";
-  src: local("宋体");
+  font-family: 'Source Sans Pro';
+  src: local('宋体');
   font-weight: 500;
 }
 
 @font-face {
-  font-family: "Source Sans Pro";
-  src: local("宋体");
+  font-family: 'Source Sans Pro';
+  src: local('宋体');
   font-weight: 600;
 }
 
 @font-face {
-  font-family: "Source Sans Pro";
-  src: local("宋体");
+  font-family: 'Source Sans Pro';
+  src: local('宋体');
   font-weight: bold;
 }
 
 @font-face {
-  font-family: "Poppins";
-  src: local("宋体");
+  font-family: 'Poppins';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Poppins";
-  src: local("宋体");
+  font-family: 'Poppins';
+  src: local('宋体');
   font-weight: 500;
 }
 
 @font-face {
-  font-family: "Helvetica Neue";
-  src: local("宋体");
+  font-family: 'Helvetica Neue';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Helvetica";
-  src: local("宋体");
+  font-family: 'Helvetica';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Arial";
-  src: local("宋体");
+  font-family: 'Arial';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Arial";
-  src: local("宋体");
+  font-family: 'Arial';
+  src: local('宋体');
   font-weight: 400;
 }
 
 @font-face {
-  font-family: "Arial";
-  src: local("宋体");
+  font-family: 'Arial';
+  src: local('宋体');
   font-weight: 700;
 }
 
 @font-face {
-  font-family: "微软雅黑";
-  src: local("宋体");
+  font-family: '微软雅黑';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Microsoft YaHei";
-  src: local("宋体");
+  font-family: 'Microsoft YaHei';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Tahoma";
-  src: local("宋体");
+  font-family: 'Tahoma';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Georgia";
-  src: local("宋体");
+  font-family: 'Georgia';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "SimSun";
-  src: local("宋体");
+  font-family: 'SimSun';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Roboto";
-  src: local("宋体");
+  font-family: 'Roboto';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Roboto";
-  src: local("宋体");
+  font-family: 'Roboto';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Roboto";
-  src: local("宋体");
+  font-family: 'Roboto';
+  src: local('宋体');
   font-weight: 300;
 }
 
 @font-face {
-  font-family: "Roboto";
-  src: local("宋体");
+  font-family: 'Roboto';
+  src: local('宋体');
   font-weight: 400;
 }
 
 @font-face {
-  font-family: "Roboto";
-  src: local("宋体");
+  font-family: 'Roboto';
+  src: local('宋体');
   font-weight: 500;
 }
 
 @font-face {
-  font-family: "Roboto";
-  src: local("宋体");
+  font-family: 'Roboto';
+  src: local('宋体');
   font-weight: 600;
 }
 
 @font-face {
-  font-family: "Roboto";
-  src: local("宋体");
+  font-family: 'Roboto';
+  src: local('宋体');
   font-weight: 700;
 }
 
 @font-face {
-  font-family: "RobotoDraft";
-  src: local("宋体");
+  font-family: 'RobotoDraft';
+  src: local('宋体');
   font-weight: 500;
 }
 
 @font-face {
-  font-family: "Times New Roman";
-  src: local("宋体");
+  font-family: 'Times New Roman';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Segoe UI";
-  src: local("宋体");
+  font-family: 'Segoe UI';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Verdana";
-  src: local("宋体");
+  font-family: 'Verdana';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Lato";
-  src: local("宋体");
+  font-family: 'Lato';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Lato";
-  src: local("宋体");
+  font-family: 'Lato';
+  src: local('宋体');
   font-weight: 700;
 }
 
 @font-face {
-  font-family: "Google Sans";
-  src: local("宋体");
+  font-family: 'Google Sans';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Google Sans";
-  src: local("宋体");
+  font-family: 'Google Sans';
+  src: local('宋体');
   font-weight: 500;
 }
 
 @font-face {
-  font-family: "DejaVuSans";
-  src: local("宋体");
+  font-family: 'DejaVuSans';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "DejaVuSans";
-  src: local("宋体");
+  font-family: 'DejaVuSans';
+  src: local('宋体');
   font-weight: 400;
 }
 
 @font-face {
-  font-family: "DejaVuSans";
-  src: local("宋体");
+  font-family: 'DejaVuSans';
+  src: local('宋体');
   font-weight: bold;
 }
 
 @font-face {
-  font-family: "DejaVu Sans";
-  src: local("宋体");
+  font-family: 'DejaVu Sans';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "DejaVu Sans";
-  src: local("宋体");
+  font-family: 'DejaVu Sans';
+  src: local('宋体');
   font-weight: 400;
 }
 
 @font-face {
-  font-family: "DejaVu Sans";
-  src: local("宋体");
+  font-family: 'DejaVu Sans';
+  src: local('宋体');
   font-weight: bold;
 }
 
 @font-face {
-  font-family: "medium-content-serif-font";
-  src: local("宋体");
+  font-family: 'medium-content-serif-font';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "medium-content-serif-font";
-  src: local("宋体");
+  font-family: 'medium-content-serif-font';
+  src: local('宋体');
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
-  font-family: "medium-content-sans-serif-font";
-  src: local("宋体");
+  font-family: 'medium-content-sans-serif-font';
+  src: local('宋体');
   font-weight: 400;
 }
 
 @font-face {
-  font-family: "medium-content-sans-serif-font";
-  src: local("宋体");
+  font-family: 'medium-content-sans-serif-font';
+  src: local('宋体');
   font-weight: 600;
 }
 
 @font-face {
-  font-family: "Raleway";
-  src: local("宋体");
+  font-family: 'Raleway';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Raleway";
-  src: local("宋体");
+  font-family: 'Raleway';
+  src: local('宋体');
   font-weight: 300;
 }
 
 @font-face {
-  font-family: "Open Sans";
-  src: local("宋体");
+  font-family: 'Open Sans';
+  src: local('宋体');
 }
 
 @font-face {
-  font-family: "Open Sans";
-  src: local("宋体");
+  font-family: 'Open Sans';
+  src: local('宋体');
   font-weight: 700;
 }
 
@@ -258,95 +258,153 @@
  * --------------------------------------------------
  */
 @font-face {
-  font-family: "CamingoCode";
-  src: local("Monaco");
+  font-family: 'CamingoCode';
+  src: local('Monaco');
 }
 
 @font-face {
   font-family: Consolas;
-  src: local("Monaco");
+  src: local('Monaco');
 }
 
 @font-face {
   font-family: Consolas;
-  src: local("Monaco");
+  src: local('Monaco');
   font-weight: 700;
 }
 
 @font-face {
   font-family: Consolas;
-  src: local("Monaco");
+  src: local('Monaco');
   font-weight: 400;
 }
 
 @font-face {
-  font-family: "Roboto Mono";
-  src: local("Monaco");
+  font-family: 'Roboto Mono';
+  src: local('Monaco');
 }
 
 @font-face {
-  font-family: "Roboto Mono";
-  src: local("Monaco");
+  font-family: 'Roboto Mono';
+  src: local('Monaco');
   font-weight: 700;
 }
 
 @font-face {
   font-family: monospace;
-  src: local("Monaco");
+  src: local('Monaco');
 }
 
 @font-face {
-  font-family: "DejaVuSansMono";
-  src: local("Monaco");
+  font-family: 'DejaVuSansMono';
+  src: local('Monaco');
 }
 
 @font-face {
-  font-family: "DejaVuSansMono";
-  src: local("Monaco");
+  font-family: 'DejaVuSansMono';
+  src: local('Monaco');
   font-weight: bold;
 }
 
 @font-face {
-  font-family: "Fira Mono";
-  src: local("Monaco");
+  font-family: 'Fira Mono';
+  src: local('Monaco');
   font-weight: 300;
 }
 
 @font-face {
-  font-family: "Droid Sans Mono";
-  src: local("Monaco");
+  font-family: 'Droid Sans Mono';
+  src: local('Monaco');
 }
 
 @font-face {
-  font-family: "Droid Sans Mono";
-  src: local("Monaco");
+  font-family: 'Droid Sans Mono';
+  src: local('Monaco');
   font-weight: 400;
 }
 
 @font-face {
-  font-family: "RobotoMono";
-  src: local("Monaco");
+  font-family: 'RobotoMono';
+  src: local('Monaco');
 }
 
 @font-face {
-  font-family: "RobotoMono";
-  src: local("Monaco");
+  font-family: 'RobotoMono';
+  src: local('Monaco');
   font-weight: 400;
 }
 
 @font-face {
-  font-family: "RobotoMono";
-  src: local("Monaco");
+  font-family: 'RobotoMono';
+  src: local('Monaco');
   font-weight: 600;
 }
 
 code {
-  font-family: "Monaco" !important;
+  font-family: 'Monaco' !important;
 }
 
 /*
  * --------------------------------------------------
  */
 pre {
-  font-family: "Monaco" !important;
+  font-family: 'Monaco' !important;
+}
+
+.W_ficon {
+  font-family: 'wbficonregular', serif !important;
+}
+
+.glyphicon {
+  font-family: 'Glyphicons Halflings', serif !important;
+}
+
+.bts {
+  font-family: 'Black Tie', serif !important;
+}
+
+.fa,
+i[class^='icon-'],
+span[class^='icon-']:not(.kg),
+span[class*=' icon-']:not(.kg),
+i.icon,
+.main-header .sidebar-toggle,
+span.icon.icon-lg {
+  font-family: 'FontAwesome', serif !important;
+}
+
+.fas {
+  font-family: FontAwesomeSite, sans-serif !important;
+}
+
+[class^='dicticon-'],
+[class*=' dicticon-']:before {
+  font-family: 'dictionary-fonticon', serif !important;
+}
+
+/* nexus repository manager*/
+span.x-btn-glyph {
+  font-family: 'FontAwesome', serif !important;
+}
+
+/* onedrive */
+.ms-Icon {
+  font-family: FabricMDL2Icons, FabricMDL2Icons-0, FabricMDL2Icons-1, FabricMDL2Icons-2, FabricMDL2Icons-3,
+    FabricMDL2Icons-4, FabricMDL2Icons-5, FabricMDL2Icons-6, FabricMDL2Icons-7, sans-serif !important;
+}
+
+/* vultr.com */
+[class^='fonticon'] {
+  font-family: 'Material-Design-Iconic-Font', sans-serif !important;
+}
+
+/* developer.mozilla.org */
+[class*=' ic-'],
+[class^='ic-'] {
+  font-family: compat-icons, serif !important;
+}
+
+/* google.com */
+.material-icons {
+  font-family: 'Material Icons', serif !important;
 }

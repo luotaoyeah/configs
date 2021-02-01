@@ -8,7 +8,7 @@
 
 - [EuDic](http://www.eudic.net)
 
-- [Intellij IDEA](https://www.jetbrains.com/idea/)
+- ~~[Intellij IDEA](https://www.jetbrains.com/idea/)~~
 
 - [iTerm2](https://www.iterm2.com/)
 

@@ -1,6 +1,6 @@
 /*
- * /var/folders/dw/llx1jnhx0pv6hq5fxq5tjnsr0000gn/T/com.eusoft.eudic.QuickLook/1544152972_mdx_1/collinsEC.css
- * C:\Users\Administrator\AppData\Roaming\Francochinois\eudic\tmp\_mdx_1_1544152972
+ * MAC：/var/folders/dw/llx1jnhx0pv6hq5fxq5tjnsr0000gn/T/com.eusoft.eudic.QuickLook/1544152972_mdx_1/collinsEC.css
+ * WIN：C:\Users\Administrator\AppData\Roaming\Francochinois\eudic\tmp\_mdx_1_1544152972
  */
 
 #ID1544152972child * {
@@ -12,7 +12,7 @@
 }
 
 body #ID1544152972child {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 14px;
   color: #000000;
   margin: 0 0 20px 0;
@@ -25,7 +25,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child p {
-  font-family: Monaco, "微软雅黑" !important;
+  font-family: Monaco, '微软雅黑' !important;
   font-size: 11px;
   color: #000000;
   margin: 0;
@@ -45,7 +45,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_word_header_word {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 16px;
   font-weight: normal;
   line-height: 28px;
@@ -59,7 +59,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_word_header_star {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 13px;
   font-weight: normal;
   line-height: 28px;
@@ -141,7 +141,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_explanation_item {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-weight: normal;
   line-height: 19px;
   margin: 0;
@@ -150,7 +150,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_explanation_box {
-  font-family: Monaco, "微软雅黑" !important;
+  font-family: Monaco, '微软雅黑' !important;
   font-size: 11px;
   font-weight: normal;
   line-height: 19px;
@@ -172,7 +172,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_item_number a {
-  font-family: "PingFang SC", serif !important;
+  font-family: 'PingFang SC', serif !important;
   font-size: 12px;
   font-weight: normal;
   line-height: 15px;
@@ -190,7 +190,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_item_number a:hover {
-  font-family: "PingFang SC", serif !important;
+  font-family: 'PingFang SC', serif !important;
   font-size: 12px;
   font-weight: normal;
   line-height: 15px;
@@ -208,7 +208,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_explanation_label {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 12px;
   font-weight: normal;
   line-height: 20px;
@@ -218,7 +218,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_explanation_box span.C1_text_blue {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 12px;
   font-weight: normal;
   line-height: 19px;
@@ -227,7 +227,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_word_gram {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 12px;
   line-height: 19px;
   color: #000000;
@@ -243,7 +243,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_explanation_item ul li {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-weight: normal;
   line-height: 19px;
   margin: 0;
@@ -251,7 +251,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_explanation_item ul li p {
-  font-family: Monaco, "微软雅黑" !important;
+  font-family: Monaco, '微软雅黑' !important;
   font-size: 12px;
   font-weight: normal;
   line-height: 19px;
@@ -275,7 +275,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_en_tip p {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 12px;
   font-weight: normal;
   line-height: 19px;
@@ -284,7 +284,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_en_tip p:first-child {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 13px;
   font-weight: normal;
   line-height: 19px;
@@ -293,7 +293,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_explanation_item ul li.C1_en_tip {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 14px;
   font-weight: normal;
   line-height: 19px;
@@ -323,7 +323,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_explanation_item ul ul.C1_vli li p {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 12px;
   font-weight: normal;
   line-height: 19px;
@@ -332,7 +332,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_explanation_item ul ul.C1_vli li p.C1_sentence_en {
-  font-family: Monaco, "微软雅黑" !important;
+  font-family: Monaco, '微软雅黑' !important;
   font-size: 11px;
   font-weight: normal;
   line-height: 19px;
@@ -342,7 +342,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_sentence_en {
-  font-family: Monaco, "微软雅黑" !important;
+  font-family: Monaco, '微软雅黑' !important;
   font-size: 11px !important;
 }
 
@@ -371,7 +371,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_part_list ul li a {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 12px;
   font-weight: normal;
   line-height: 19px;
@@ -416,7 +416,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_part_number {
-  font-family: Arial, "Times New Roman";
+  font-family: Arial, 'Times New Roman';
   font-size: 14px;
   font-weight: normal;
   line-height: 24px;
@@ -452,7 +452,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child dl.phrasal_verb_box dt {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 13px;
   font-weight: normal;
   line-height: 19px;
@@ -466,7 +466,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child dl.phrasal_verb_box dd a.C1_explain {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 14px;
   font-weight: normal;
   line-height: 19px;
@@ -501,7 +501,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_vExplain_r ul li p {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 13px;
   font-weight: normal;
   line-height: 19px;
@@ -511,7 +511,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_vExplain_r b.C1_text_blue {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 14px;
   font-weight: normal;
   line-height: 19px;
@@ -519,7 +519,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_vExplain_s {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 14px;
   font-weight: normal;
   line-height: 19px;
@@ -541,7 +541,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_vEn_tip p {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 11px;
   font-weight: normal;
   line-height: 19px;
@@ -557,7 +557,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_seealso {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 14px;
   font-weight: normal;
   line-height: 19px;
@@ -565,7 +565,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_text_blue a.C1_explain {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 14px;
   font-weight: normal;
   line-height: 19px;
@@ -579,7 +579,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_see_other_box {
-  font-family: Arial, "Times New Roman";
+  font-family: Arial, 'Times New Roman';
   font-size: 14px;
   font-weight: normal;
   line-height: 19px;
@@ -591,7 +591,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_see_other_word {
-  font-family: Arial, "Times New Roman";
+  font-family: Arial, 'Times New Roman';
   font-size: 14px;
   font-weight: normal;
   line-height: 19px;
@@ -601,7 +601,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_see_label {
-  font-family: Monaco, "Times New Roman";
+  font-family: Monaco, 'Times New Roman';
   font-size: 11px;
   font-weight: normal;
   line-height: 19px;
@@ -611,7 +611,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_plus_character {
-  font-family: Arial, "Times New Roman";
+  font-family: Arial, 'Times New Roman';
   font-size: 14px;
   font-weight: normal;
   line-height: 19px;
@@ -623,7 +623,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_seealso_2 {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 14px;
   font-weight: normal;
   line-height: 19px;
@@ -632,13 +632,13 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_see_usage {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   line-height: 19px;
   color: #000000;
 }
 
 #ID1544152972child .C1_seeusage_2 {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 14px;
   font-weight: normal;
   line-height: 19px;
@@ -647,7 +647,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_seeusage_3 {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 14px;
   font-weight: normal;
   line-height: 19px;
@@ -656,7 +656,7 @@ body #ID1544152972child {
 }
 
 #ID1544152972child .C1_text_gray {
-  font-family: "微软雅黑";
+  font-family: '微软雅黑';
   font-size: 14px;
   font-weight: normal;
   line-height: 19px;
