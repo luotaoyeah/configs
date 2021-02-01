@@ -15,12 +15,12 @@
     "enabled": true
   },
   "gitlab.com": {
-    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.diff-table.code,\ntable.code {\n  font-family: \"Monaco\", monospace;\n  font-size: 80%;\n}\n\n.monospace,\n.commit-sha,\n.gfm-commit,\n.gfm-commit_range,\n.ref-name,\n.git-revision-dropdown .dropdown-content ul li a,\n.mr-state-widget .label-branch,\n.pipeline-number,\n.file-editor .file-title,\n.git-clone-holder .form-control,\n.git-clone-holder .search form,\n.search .git-clone-holder form {\n  font-family: \"Monaco\", monospace;\n  font-size: 80%;\n}\n",
+    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.diff-table.code,\ntable.code {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n\n.monospace,\n.commit-sha,\n.gfm-commit,\n.gfm-commit_range,\n.ref-name,\n.git-revision-dropdown .dropdown-content ul li a,\n.mr-state-widget .label-branch,\n.pipeline-number,\n.file-editor .file-title,\n.git-clone-holder .form-control,\n.git-clone-holder .search form,\n.search .git-clone-holder form {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n",
     "readability": false,
     "enabled": true
   },
   "google.com": {
-    "css": "body,\n.std,\n.g,\n.gsfi,\n.lst {\n  font-family: \"SimSun\", \"宋体\";\n}\n",
+    "css": "body,\n.std,\n.g,\n.gsfi,\n.lst,\n.WGvvNb {\n  font-family: \"SimSun\", \"宋体\";\n}\n",
     "readability": false,
     "enabled": true
   }
