@@ -1,0 +1,27 @@
+{
+  "*": {
+    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n",
+    "readability": false,
+    "enabled": true
+  },
+  "angular.io": {
+    "css": ".level-1,\n.level-2,\n.level-3,\n.level-4,\n.app-toolbar a,\ninput,\nbutton {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode {\n  font-family: \"Monaco\", monospace;\n}\n",
+    "readability": false,
+    "enabled": true
+  },
+  "github.com": {
+    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.blob-code-inner {\n  font-family: \"Monaco\", monospace;\n}\n",
+    "readability": false,
+    "enabled": true
+  },
+  "gitlab.com": {
+    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.diff-table.code,\ntable.code {\n  font-family: \"Monaco\", monospace;\n  font-size: 80%;\n}\n\n.monospace,\n.commit-sha,\n.gfm-commit,\n.gfm-commit_range,\n.ref-name,\n.git-revision-dropdown .dropdown-content ul li a,\n.mr-state-widget .label-branch,\n.pipeline-number,\n.file-editor .file-title,\n.git-clone-holder .form-control,\n.git-clone-holder .search form,\n.search .git-clone-holder form {\n  font-family: \"Monaco\", monospace;\n  font-size: 80%;\n}\n",
+    "readability": false,
+    "enabled": true
+  },
+  "google.com": {
+    "css": "body,\n.std,\n.g,\n.gsfi,\n.lst {\n  font-family: \"SimSun\", \"宋体\";\n}\n",
+    "readability": false,
+    "enabled": true
+  }
+}
