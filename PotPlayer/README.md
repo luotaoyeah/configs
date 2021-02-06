@@ -1,0 +1,2 @@
+- `potplayer-mini64.reg` 是配置文件
+- `potplayer-wmp.dsf` 是皮肤
