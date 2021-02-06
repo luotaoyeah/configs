@@ -5,22 +5,27 @@
     "enabled": true
   },
   "angular.io": {
-    "css": ".level-1,\n.level-2,\n.level-3,\n.level-4,\n.app-toolbar a,\ninput,\nbutton {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode {\n  font-family: \"Monaco\", monospace;\n}\n",
+    "css": ".level-1,\n.level-2,\n.level-3,\n.level-4,\n.app-toolbar a,\ninput,\nbutton {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode {\n  font-family: \"Monaco\", monospace;\n}\n\n.material-icons {\n  font-family: \"Material Icons\";\n}\n",
     "readability": false,
     "enabled": true
   },
   "github.com": {
-    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.blob-code-inner {\n  font-family: \"Monaco\", monospace;\n}\n",
+    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.blob-code-inner,\npre {\n  font-family: \"Monaco\", monospace;\n}\n",
     "readability": false,
     "enabled": true
   },
   "gitlab.com": {
-    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.diff-table.code,\ntable.code {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n\n.monospace,\n.commit-sha,\n.gfm-commit,\n.gfm-commit_range,\n.ref-name,\n.git-revision-dropdown .dropdown-content ul li a,\n.mr-state-widget .label-branch,\n.pipeline-number,\n.file-editor .file-title,\n.git-clone-holder .form-control,\n.git-clone-holder .search form,\n.search .git-clone-holder form {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n",
+    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.diff-table.code,\ntable.code,\n.job-log {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n\n.monospace,\n.commit-sha,\n.gfm-commit,\n.gfm-commit_range,\n.ref-name,\n.git-revision-dropdown .dropdown-content ul li a,\n.mr-state-widget .label-branch,\n.pipeline-number,\n.file-editor .file-title,\n.git-clone-holder .form-control,\n.git-clone-holder .search form,\n.search .git-clone-holder form,\ntextarea.js-gfm-input {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n",
     "readability": false,
     "enabled": true
   },
   "google.com": {
     "css": "body,\n.std,\n.g,\n.gsfi,\n.lst,\n.WGvvNb {\n  font-family: \"SimSun\", \"宋体\";\n}\n",
+    "readability": false,
+    "enabled": true
+  },
+  "npmjs.com": {
+    "css": "body,\nbutton,\ninput,\noptgroup,\nselect,\ntextarea,\n._452c3ec4,\n._6f31c82b,\n.c6c55db4,\n.cd2827bb,\n._99e3854f {\n  font-family: \"SimSun\", \"宋体\";\n}\n\npre,\ncode,\n.code,\n._76473bea,\n.c495d29d {\n  font-family: Monaco, monospace;\n}\n",
     "readability": false,
     "enabled": true
   }

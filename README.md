@@ -4,7 +4,7 @@
 
 - [Cmder](http://cmder.net/)
 
-- [ConEmu](http://conemu.github.io/)
+- ~~[ConEmu](http://conemu.github.io/)~~
 
 - [EuDic](http://www.eudic.net)
 
