@@ -25,7 +25,7 @@
     "enabled": true
   },
   "google.com": {
-    "css": "body,\n.std,\n.g,\n.gsfi,\n.lst,\n.WGvvNb {\n  font-family: \"SimSun\", \"宋体\";\n}\n",
+    "css": "body,\n.std,\n.g,\n.gsfi,\n.lst,\n.WGvvNb,\n.yUUmWd,\n.Rj2Mlf,\n.TcXXXb,\n.gb_7d,\n.gb_Wa:not(.gb_Hd) {\n  font-family: \"SimSun\", \"宋体\";\n}\n",
     "readability": false,
     "enabled": true
   },
