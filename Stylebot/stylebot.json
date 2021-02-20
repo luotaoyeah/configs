@@ -9,6 +9,11 @@
     "readability": false,
     "enabled": true
   },
+  "developer.mozilla.org": {
+    "css": "body,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-family: \"SimSun\", \"宋体\";\n}\n\npre,\ncode {\n  font-family: Monaco, monospace;\n}\n",
+    "readability": false,
+    "enabled": true
+  },
   "github.com": {
     "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.blob-code-inner,\npre {\n  font-family: \"Monaco\", monospace;\n}\n",
     "readability": false,
