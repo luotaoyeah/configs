@@ -14,6 +14,11 @@
     "readability": false,
     "enabled": true
   },
+  "feedly.com": {
+    "css": "body,\n.Heading--h1,\n.fx .entry .entry__title,\n.fx .button.small,\n.fx button.small,\n.fx .button,\n.fx button,\nh2,\n.inlineFrame .u100Entry .entry__title,\n.merriweather .entryBody,\n.entryBody h1,\n.entryBody h2,\n.entryBody h3,\n.entryBody h4,\n.entryBody h5,\n.entryBody h6 {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode {\n  font-family: \"Monaco\", monospace;\n}\n",
+    "readability": false,
+    "enabled": true
+  },
   "github.com": {
     "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.blob-code-inner,\npre {\n  font-family: \"Monaco\", monospace;\n}\n",
     "readability": false,
@@ -26,6 +31,11 @@
   },
   "google.com": {
     "css": "body,\n.std,\n.g,\n.gsfi,\n.lst,\n.WGvvNb,\n.yUUmWd,\n.Rj2Mlf,\n.TcXXXb,\n.gb_7d,\n.gb_Wa:not(.gb_Hd) {\n  font-family: \"SimSun\", \"宋体\";\n}\n",
+    "readability": false,
+    "enabled": true
+  },
+  "mail.google.com": {
+    "css": "body,\ntd,\ndiv,\ninput,\ntextarea,\nselect,\n.yW,\n.zA > .a4W,\n.nH .ya .x8,\n.nH .ya .x2,\n.ahf,\n.TO .nU > .n0,\n.TO.NQ .nU > .n0,\n.TO.nZ .nU > .n0,\n.ah9 > .CJ,\n.n3 > .CL > .CK,\n.gb_ff,\n.z0 > .L3,\n.zA > .xW,\n.brg,\n.Bn,\n.YI,\n.YV,\n.Q2,\n.amH > .Dj,\n.h0 > .adl,\n.ha > .hP,\n.ZF-zT > .ZZ,\n.md,\n.aeU .ma,\n.bp .ma,\n.l6,\n.aiD,\n.bs0 > .acM,\n.bti > .btg,\n.J-M,\n.hx .gD,\nh3.iw,\n.Rq5Gcb,\n.amn > .ams,\n.brC-ays,\n.ig .g3,\n.ar,\n.hI .g3,\n.gH.acX > .L3.bsQ,\n.T-I-atl,\n.iv .g3,\n.a3s,\n.g6 {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode {\n  font-family: \"Monaco\", monospace;\n}\n",
     "readability": false,
     "enabled": true
   },
