@@ -20,7 +20,7 @@
     "enabled": true
   },
   "github.com": {
-    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.blob-code-inner,\npre {\n  font-family: \"Monaco\", monospace;\n}\n",
+    "css": "body,\n.markdown-body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.blob-code-inner,\npre,\ncode,\npre,\ntt,\n.text-mono {\n  font-family: \"Monaco\", monospace;\n}\n",
     "readability": false,
     "enabled": true
   },
@@ -41,6 +41,11 @@
   },
   "npmjs.com": {
     "css": "body,\nbutton,\ninput,\noptgroup,\nselect,\ntextarea,\n._452c3ec4,\n._6f31c82b,\n.c6c55db4,\n.cd2827bb,\n._99e3854f {\n  font-family: \"SimSun\", \"宋体\";\n}\n\npre,\ncode,\n.code,\n._76473bea,\n.c495d29d {\n  font-family: Monaco, monospace;\n}\n",
+    "readability": false,
+    "enabled": true
+  },
+  "www.typescriptlang.org": {
+    "css": "html {\n  --code-font: Monaco, monospace;\n  --body-font: \"SimSun\", \"宋体\", sans-serif;\n}\n",
     "readability": false,
     "enabled": true
   }
