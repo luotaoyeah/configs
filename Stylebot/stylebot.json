@@ -34,6 +34,11 @@
     "readability": false,
     "enabled": true
   },
+  "kengic.gitlab.io/wiki": {
+    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode {\n  font-family: \"Monaco\", monospace;\n}\n\n@media (min-width: 1200px) {\n  .container {\n    width: 100%;\n  }\n}\n\nfooter {\n  display: none;\n}\n\n.sidefilter,\n.sidetoc {\n  width: 400px;\n}\n\n.article.grid-right {\n  margin-left: 420px;\n}\n\n.article {\n  margin-bottom: 20px;\n}\n\n.sidetoc.shiftup {\n  bottom: 0px;\n}\n\n.container,\n.container-fluid {\n  padding-left: 0px;\n}\n\n.breadcrumb {\n  padding-left: 10px;\n}\n\n.sidefilter {\n  top: 92px;\n  padding: 1px;\n}\n\n.toc-filter {\n  margin: 0px;\n  border-radius: 0px;\n}\n\n.sidetoc {\n  top: 126px;\n}\n",
+    "readability": false,
+    "enabled": true
+  },
   "mail.google.com": {
     "css": "body,\ntd,\ndiv,\ninput,\ntextarea,\nselect,\n.yW,\n.zA > .a4W,\n.nH .ya .x8,\n.nH .ya .x2,\n.ahf,\n.TO .nU > .n0,\n.TO.NQ .nU > .n0,\n.TO.nZ .nU > .n0,\n.ah9 > .CJ,\n.n3 > .CL > .CK,\n.gb_ff,\n.z0 > .L3,\n.zA > .xW,\n.brg,\n.Bn,\n.YI,\n.YV,\n.Q2,\n.amH > .Dj,\n.h0 > .adl,\n.ha > .hP,\n.ZF-zT > .ZZ,\n.md,\n.aeU .ma,\n.bp .ma,\n.l6,\n.aiD,\n.bs0 > .acM,\n.bti > .btg,\n.J-M,\n.hx .gD,\nh3.iw,\n.Rq5Gcb,\n.amn > .ams,\n.brC-ays,\n.ig .g3,\n.ar,\n.hI .g3,\n.gH.acX > .L3.bsQ,\n.T-I-atl,\n.iv .g3,\n.a3s,\n.g6 {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode {\n  font-family: \"Monaco\", monospace;\n}\n",
     "readability": false,
