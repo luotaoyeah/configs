@@ -9,6 +9,11 @@
     "readability": false,
     "enabled": true
   },
+  "chandao.kengic.com": {
+    "css": "body,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode,\npre {\n  font-family: \"Monaco\", monospace;\n  font-size: 90%;\n}\n\n#sidebar > .sidebar-toggle > .icon,\n.cell,\n.panel,\n.list-group > a,\n.btn,\n.dropdown-menu,\n.dropdown-menu > li > a,\n.label-pri,\n.main-actions .btn-toolbar {\n  border-radius: 2px;\n}\n\n#globalSearchButton {\n  border-radius: 0px 2px 2px 0px;\n}\n#globalSearchButton > .icon {\n  line-height: 15px;\n}\n\n#proLink {\n  display: none;\n}\n\nem {\n  font-style: normal;\n}\n",
+    "readability": false,
+    "enabled": true
+  },
   "developer.mozilla.org": {
     "css": "body,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-family: \"SimSun\", \"宋体\";\n}\n\npre,\ncode {\n  font-family: Monaco, monospace;\n}\n",
     "readability": false,
@@ -25,7 +30,7 @@
     "enabled": true
   },
   "gitlab.com": {
-    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.diff-table.code,\ntable.code,\n.job-log {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n\n.monospace,\n.commit-sha,\n.gfm-commit,\n.gfm-commit_range,\n.ref-name,\n.git-revision-dropdown .dropdown-content ul li a,\n.mr-state-widget .label-branch,\n.pipeline-number,\n.file-editor .file-title,\n.git-clone-holder .form-control,\n.git-clone-holder .search form,\n.search .git-clone-holder form,\ntextarea.js-gfm-input {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n",
+    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.diff-table.code,\ntable.code,\n.job-log,\n.md code {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n\n.monospace,\n.commit-sha,\n.gfm-commit,\n.gfm-commit_range,\n.ref-name,\n.git-revision-dropdown .dropdown-content ul li a,\n.mr-state-widget .label-branch,\n.pipeline-number,\n.file-editor .file-title,\n.git-clone-holder .form-control,\n.git-clone-holder .search form,\n.search .git-clone-holder form,\ntextarea.js-gfm-input {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n",
     "readability": false,
     "enabled": true
   },
@@ -35,7 +40,7 @@
     "enabled": true
   },
   "kengic.gitlab.io/wiki": {
-    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode {\n  font-family: \"Monaco\", monospace;\n}\n\n@media (min-width: 1200px) {\n  .container {\n    width: 100%;\n  }\n}\n\nfooter {\n  display: none;\n}\n\n.sidefilter,\n.sidetoc {\n  width: 400px;\n}\n\n.article.grid-right {\n  margin-left: 420px;\n}\n\n.article {\n  margin-bottom: 20px;\n}\n\n.sidetoc.shiftup {\n  bottom: 0px;\n}\n\n.container,\n.container-fluid {\n  padding-left: 0px;\n}\n\n.breadcrumb {\n  padding-left: 10px;\n}\n\n.sidefilter {\n  top: 92px;\n  padding: 1px;\n}\n\n.toc-filter {\n  margin: 0px;\n  border-radius: 0px;\n}\n\n.sidetoc {\n  top: 126px;\n}\n",
+    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode {\n  font-family: \"Monaco\", monospace;\n}\n\n@media (min-width: 1200px) {\n  .container {\n    width: 100%;\n  }\n}\n\nfooter {\n  display: none;\n}\n\n.sidefilter,\n.sidetoc {\n  width: 400px;\n}\n\n.article.grid-right {\n  margin-left: 420px;\n}\n\n.article {\n  margin-bottom: 20px;\n}\n\n.sidetoc.shiftup {\n  bottom: 0px;\n}\n\n.container,\n.container-fluid {\n  padding-left: 0px;\n}\n\n.breadcrumb {\n  padding-left: 10px;\n}\n\n.sidefilter {\n  top: 92px;\n  padding: 1px;\n}\n\n.toc-filter {\n  margin: 0px;\n  border-radius: 0px;\n}\n\n.sidetoc {\n  top: 126px;\n}\n\nul.nav.level3,\nul.nav.level4,\nul.nav.level5,\nul.nav.level6,\nul.nav.level7 {\n  margin-left: 16px;\n}\n",
     "readability": false,
     "enabled": true
   },
@@ -51,6 +56,11 @@
   },
   "www.typescriptlang.org": {
     "css": "html {\n  --code-font: Monaco, monospace;\n  --body-font: \"SimSun\", \"宋体\", sans-serif;\n}\n",
+    "readability": false,
+    "enabled": true
+  },
+  "www.yuque.com": {
+    "css": "body,\n.lake-engine,\n.lake-engine-view,\nbutton,\ninput,\noptgroup,\nselect,\ntextarea,\n.ne-engine-box .ne-engine,\n.index-module_title_1s0gC > h1 {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.index-module_titleItemBook_1X9qk .tail-info {\n  font-size: 80%;\n}\n\ncode,\npre,\n.index-module_titleItemBook_1X9qk .tail-info,\nne-code-content {\n  font-family: \"Monaco\", monospace;\n  font-size: 90%;\n}\n\n.ne-typography-classic ne-code ne-text {\n  font-size: 13px;\n}\n\n.index-module_reward_Uu00Q {\n  display: none;\n}\n",
     "readability": false,
     "enabled": true
   }
