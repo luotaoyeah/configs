@@ -4,18 +4,28 @@
     "readability": false,
     "enabled": true
   },
+  "*.yuque.com": {
+    "css": "body,\n.lake-engine,\n.lake-engine-view,\nbutton,\ninput,\noptgroup,\nselect,\ntextarea,\n.ne-engine-box .ne-engine,\n.index-module_title_1s0gC > h1,\n.ne-viewer .ne-viewer-body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.index-module_titleItemBook_1X9qk .tail-info {\n  font-size: 80%;\n}\n\ncode,\npre,\n.index-module_titleItemBook_1X9qk .tail-info,\nne-code-content {\n  font-family: \"Monaco\", monospace;\n  font-size: 90%;\n}\n\n.ne-typography-classic ne-code ne-text {\n  font-size: 13px;\n}\n\n.index-module_reward_Uu00Q {\n  display: none;\n}\n",
+    "readability": false,
+    "enabled": true
+  },
   "angular.io": {
     "css": ".level-1,\n.level-2,\n.level-3,\n.level-4,\n.app-toolbar a,\ninput,\nbutton {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode {\n  font-family: \"Monaco\", monospace;\n}\n\n.material-icons {\n  font-family: \"Material Icons\";\n}\n",
     "readability": false,
     "enabled": true
   },
   "chandao.kengic.com": {
-    "css": "body,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode,\npre {\n  font-family: \"Monaco\", monospace;\n  font-size: 90%;\n}\n\n#sidebar > .sidebar-toggle > .icon,\n.cell,\n.panel,\n.list-group > a,\n.btn,\n.dropdown-menu,\n.dropdown-menu > li > a,\n.label-pri,\n.main-actions .btn-toolbar {\n  border-radius: 2px;\n}\n\n#globalSearchButton {\n  border-radius: 0px 2px 2px 0px;\n}\n#globalSearchButton > .icon {\n  line-height: 15px;\n}\n\n#proLink {\n  display: none;\n}\n\nem {\n  font-style: normal;\n}\n",
+    "css": "body,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode,\npre {\n  font-family: \"Monaco\", monospace;\n  font-size: 90%;\n}\n\n#sidebar > .sidebar-toggle > .icon,\n.cell,\n.panel,\n.list-group > a,\n.btn,\n.dropdown-menu,\n.dropdown-menu > li > a,\n.label-pri,\n.main-actions .btn-toolbar,\n.label-badge {\n  border-radius: 2px;\n}\n\n#globalSearchButton {\n  border-radius: 0px 2px 2px 0px;\n}\n#globalSearchButton > .icon {\n  line-height: 15px;\n}\n\n#proLink {\n  display: none;\n}\n\nem {\n  font-style: normal;\n}\n\ntable tbody tr td.c-pri {\n  overflow: visible;\n  text-overflow: initial;\n}\n",
     "readability": false,
     "enabled": true
   },
   "developer.mozilla.org": {
     "css": "body,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-family: \"SimSun\", \"宋体\";\n}\n\npre,\ncode {\n  font-family: Monaco, monospace;\n}\n",
+    "readability": false,
+    "enabled": true
+  },
+  "docs.microsoft.com": {
+    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode,\npre {\n  font-family: \"Monaco\", monospace;\n  font-size: 90%;\n}\n",
     "readability": false,
     "enabled": true
   },
@@ -30,7 +40,7 @@
     "enabled": true
   },
   "gitlab.com": {
-    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.diff-table.code,\ntable.code,\n.job-log,\n.md code {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n\n.monospace,\n.commit-sha,\n.gfm-commit,\n.gfm-commit_range,\n.ref-name,\n.git-revision-dropdown .dropdown-content ul li a,\n.mr-state-widget .label-branch,\n.pipeline-number,\n.file-editor .file-title,\n.git-clone-holder .form-control,\n.git-clone-holder .search form,\n.search .git-clone-holder form,\ntextarea.js-gfm-input {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n",
+    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.diff-table.code,\ntable.code,\n.job-log,\n.md code,\npre,\n.file-content.code pre code,\n.monospace,\n.commit-sha,\n.gfm-commit,\n.gfm-commit_range,\n.ref-name,\n.git-revision-dropdown .dropdown-content ul li a,\n.mr-state-widget .label-branch,\n.pipeline-number,\n.file-editor .file-title,\n.git-clone-holder .form-control,\n.git-clone-holder .search form,\n.search .git-clone-holder form,\ntextarea.js-gfm-input {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n",
     "readability": false,
     "enabled": true
   },
@@ -56,11 +66,6 @@
   },
   "www.typescriptlang.org": {
     "css": "html {\n  --code-font: Monaco, monospace;\n  --body-font: \"SimSun\", \"宋体\", sans-serif;\n}\n",
-    "readability": false,
-    "enabled": true
-  },
-  "www.yuque.com": {
-    "css": "body,\n.lake-engine,\n.lake-engine-view,\nbutton,\ninput,\noptgroup,\nselect,\ntextarea,\n.ne-engine-box .ne-engine,\n.index-module_title_1s0gC > h1 {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.index-module_titleItemBook_1X9qk .tail-info {\n  font-size: 80%;\n}\n\ncode,\npre,\n.index-module_titleItemBook_1X9qk .tail-info,\nne-code-content {\n  font-family: \"Monaco\", monospace;\n  font-size: 90%;\n}\n\n.ne-typography-classic ne-code ne-text {\n  font-size: 13px;\n}\n\n.index-module_reward_Uu00Q {\n  display: none;\n}\n",
     "readability": false,
     "enabled": true
   }
