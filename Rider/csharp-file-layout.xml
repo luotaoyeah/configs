@@ -135,6 +135,19 @@
             </Entry.SortBy>
         </Entry>
 
+        <Entry DisplayName="Public Delegates" Priority="100">
+            <Entry.Match>
+                <And>
+                    <Access Is="Public" />
+                    <Kind Is="Event" />
+                </And>
+            </Entry.Match>
+
+            <Entry.SortBy>
+                <Name />
+            </Entry.SortBy>
+        </Entry>
+
         <Entry DisplayName="Public Enums" Priority="100">
             <Entry.Match>
                 <And>

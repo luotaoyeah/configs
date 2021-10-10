@@ -1,9 +1,4 @@
 {
-  "*": {
-    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n",
-    "readability": false,
-    "enabled": true
-  },
   "*.yuque.com": {
     "css": "body,\n.lake-engine,\n.lake-engine-view,\nbutton,\ninput,\noptgroup,\nselect,\ntextarea,\n.ne-engine-box .ne-engine,\n.index-module_title_1s0gC > h1,\n.ne-viewer .ne-viewer-body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.index-module_titleItemBook_1X9qk .tail-info {\n  font-size: 80%;\n}\n\ncode,\npre,\n.index-module_titleItemBook_1X9qk .tail-info,\nne-code-content {\n  font-family: \"Monaco\", monospace;\n  font-size: 90%;\n}\n\n.ne-typography-classic ne-code ne-text {\n  font-size: 13px;\n}\n\n.index-module_reward_Uu00Q {\n  display: none;\n}\n",
     "readability": false,
