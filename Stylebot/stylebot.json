@@ -59,6 +59,11 @@
     "readability": false,
     "enabled": true
   },
+  "threejs.org": {
+    "css": "html,\n#panel #language,\n.dg,\ninput,\nselect,\n#newWindow {\n  font-family: \"SimSun\", \"宋体\";\n}\n\nbody {\n  font-family: Monaco, \"SimSun\", \"宋体\";\n  font-size: 90%;\n}\n\npre.prettyprint,\ncode.prettyprint {\n  font-family: Monaco, \"SimSun\", \"宋体\";\n  font-size: 90%;\n}\n",
+    "readability": false,
+    "enabled": true
+  },
   "www.typescriptlang.org": {
     "css": "html {\n  --code-font: Monaco, monospace;\n  --body-font: \"SimSun\", \"宋体\", sans-serif;\n}\n",
     "readability": false,
