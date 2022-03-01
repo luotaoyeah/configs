@@ -9,6 +9,11 @@
     "readability": false,
     "enabled": true
   },
+  "alidocs.dingtalk.com": {
+    "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode,\npre {\n  font-family: \"Monaco\", monospace;\n  font-size: 90%;\n}\n\n.ant-popover-inner,\n.csgriZ:hover .sc-iEFAWW,\nbody\n  .ant-dropdown-menu-submenu\n  .ant-dropdown-menu\n  .ant-dropdown-menu-item:hover,\nbody\n  .ant-dropdown-menu-submenu\n  .ant-dropdown-menu\n  .ant-dropdown-menu-submenu:hover,\nbody .ant-dropdown .ant-dropdown-menu .ant-dropdown-menu-item:hover,\nbody .ant-dropdown .ant-dropdown-menu .ant-dropdown-menu-submenu:hover,\nbody .ant-dropdown-menu-submenu .ant-dropdown-menu,\nbody .ant-dropdown .ant-dropdown-menu,\n.kJjTlx,\n.iZZwlB,\n.dtd-btn-lg,\n.dtd-btn {\n  border-radius: 4px;\n}\n",
+    "readability": false,
+    "enabled": true
+  },
   "angular.io": {
     "css": ".level-1,\n.level-2,\n.level-3,\n.level-4,\n.app-toolbar a,\ninput,\nbutton {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode {\n  font-family: \"Monaco\", monospace;\n}\n\n.material-icons {\n  font-family: \"Material Icons\";\n}\n",
     "readability": false,
