@@ -1,4 +1,5 @@
 <code_scheme name="luotao" version="173">
+  <option name="RIGHT_MARGIN" value="160" />
   <JSCodeStyleSettings version="0">
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
@@ -7,6 +8,7 @@
   </MarkdownNavigatorCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_PUBLIC_MODIFIER" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </TypeScriptCodeStyleSettings>
   <VueCodeStyleSettings>
