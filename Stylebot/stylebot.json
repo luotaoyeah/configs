@@ -39,6 +39,11 @@
     "readability": false,
     "enabled": true
   },
+  "docs.rs": {
+    "css": "\nh1, h2, h3, h4, h5, h6,  .mobile-topbar, .search-results .result-name, .content table td:first-child > a, .item-left > a, .out-of-band, span.since, #source-sidebar, #sidebar-toggle, details.rustdoc-toggle > summary::before, div.impl-items > div:not(.docblock):not(.item-info), .content ul.crate a.crate, a.srclink, #main-content > ul.docblock > li > a,\ndiv.nav-container, .pure-g [class*=\"pure-u\"], .sidebar, a.source, .search-input, .content table :not(code) > a, .collapse-toggle, div.item-list .out-of-band, #source-sidebar, #sidebar-toggle, body {\n    font-family: \"SimSun\", \"宋体\";\n}\n\ncode, pre {\n    font-family: \"Monaco\", monospace;\n}\n\n\ncode, kbd, pre, samp {\n    font-size: 0.9em;\n}",
+    "readability": false,
+    "enabled": true
+  },
   "exceptionless.io": {
     "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\ncode,\npre {\n  font-family: \"Monaco\", monospace;\n  font-size: 90%;\n}\n\n.btn {\n  border-radius: 3px;\n}\n\n.alert-banner,\n.app-footer {\n  display: none;\n}\n\n.app-aside-folded .navi > ul > li > a i,\n.nav-sub,\n.navi ul.nav li a {\n  transition: none;\n}\n\n.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle) {\n  border-top-right-radius: 0;\n  border-bottom-right-radius: 0;\n}\n\n.btn-group > .btn:last-child:not(:first-child),\n.btn-group > .dropdown-toggle:not(:first-child) {\n  border-top-left-radius: 0;\n  border-bottom-left-radius: 0;\n}\n",
     "readability": false,
