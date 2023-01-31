@@ -205,13 +205,15 @@ strike {
     clear: both;
     line-height: 140%;
     overflow: hidden;
-    border: 1px solid #d9d9d9;
+    border: 1px solid #1677ff;
     border-radius: 3px;
     padding: 3px 3px 2px 3px;
+    background: #1677ff;
 }
 
 .expHead a {
     align-items: center;
+    color: #fff;
 }
 
 #expCustomNote button {

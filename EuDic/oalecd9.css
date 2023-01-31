@@ -97,14 +97,15 @@ body #ID1143082667child eudic_compact_remove {
     color: #fff;
     font-weight: 600;
     padding-left: 2px;
-    padding-right: 2px;
+    padding-right: 3px;
     border-style: solid;
     border-width: 1px;
-    border-radius: 3px;
+    border-radius: 2px;
     border-top: 0;
     border-bottom: 0;
     border-color: #c70000;
     background-color: #c70000;
+    padding-bottom: 1px;
 }
 
 #ID1143082667child vpform {
@@ -174,7 +175,7 @@ sn-gs sn-blk::before {
 }
 
 #ID1143082667child x-g-blk x chn {
-    padding-left: 0px;
+    padding-left: 6px;
     font-style: normal;
     color: #666666;
 }
