@@ -2,7 +2,7 @@
     "name": "@luotao/configs",
     "version": "0.0.1",
     "devDependencies": {
-        "prettier": "2.8.3"
+        "prettier": "2.8.4"
     },
     "prettier": {
         "endOfLine": "crlf",

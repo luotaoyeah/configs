@@ -1,0 +1,24 @@
+p,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+ul,
+li,
+a {
+    font-family: '宋体', sans-serif !important;
+}
+
+code,
+pre {
+    font-family: Monaco, sans-serif !important;
+    font-size: 11px;
+}
+
+code {
+    border-radius: 3px !important;
+}
