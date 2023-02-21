@@ -65,7 +65,7 @@
         "enabled": true
     },
     "gitlab.com,jihulab.com": {
-        "css": "body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.gl-font-monospace,\n.diff-table.code,\ntable.code,\n.job-log,\n.md code,\npre,\n.file-content.code pre code,\n.monospace,\n.commit-sha,\n.gfm-commit,\n.gfm-commit_range,\n.ref-name,\n.git-revision-dropdown .dropdown-content ul li a,\n.mr-state-widget .label-branch,\n.pipeline-number,\n.file-editor .file-title,\n.git-clone-holder .form-control,\n.git-clone-holder .search form,\n.search .git-clone-holder form,\ntextarea.js-gfm-input {\n  font-family: \"Monaco\", monospace;\n  font-size: 85%;\n}\n\n.badge-pill {\n  border-radius: 2px;\n}\n\n.info-well .well-segment {\n  padding: 8px;\n}\n",
+        "css": "body {\n    font-family: \"SimSun\", \"宋体\";\n}\n\ncode, kbd, samp,\n.gl-font-monospace,\n.diff-table.code,\ntable.code,\n.job-log,\n.md code,\npre,\n.file-content.code pre code,\n.monospace,\n.commit-sha,\n.gfm-commit,\n.gfm-commit_range,\n.ref-name,\n.git-revision-dropdown .dropdown-content ul li a,\n.mr-state-widget .label-branch,\n.pipeline-number,\n.file-editor .file-title,\n.git-clone-holder .form-control,\n.git-clone-holder .search form,\n.search .git-clone-holder form,\ntextarea.js-gfm-input {\n    font-family: \"Monaco\", monospace;\n    font-size: 85%;\n}\n\n.badge-pill {\n    border-radius: 2px;\n}\n\n.info-well .well-segment {\n    padding: 8px;\n}\n",
         "readability": false,
         "enabled": true
     },
