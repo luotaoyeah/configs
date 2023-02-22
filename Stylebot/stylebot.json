@@ -95,7 +95,7 @@
         "enabled": true
     },
     "www.liaoxuefeng.com": {
-        "css": "html, body, h1, h2, h3, h4, h5, h6, .uk-navbar-nav > li > a {\n    font-family: \"SimSun\", sans-serif;\n}\n\ncode {\n    font-family: Monaco, monospace;\n    font-size: 14px;\n}\n\ntextarea.x-codearea {\n    font-size: 14px;\n    font-family: Monaco, sans-serif;\n}\n\n\n.x-goto-top,\n#footer,\n#x-content-comment,\n#x-content-bottom,\n#x-sidebar-left-bottom {\n    display: none;\n}",
+        "css": "html, body, h1, h2, h3, h4, h5, h6, .uk-navbar-nav > li > a {\n    font-family: \"SimSun\", sans-serif;\n}\n\ncode {\n    font-family: Monaco, monospace;\n    font-size: 14px;\n}\n\ncode.language-ascii {\n    font-family: JetBrainsMono, \"Courier New\", Consolas, monospace !important;\n}\n\ntextarea.x-codearea {\n    font-size: 14px;\n    font-family: Monaco, sans-serif;\n}\n\n\n.x-wiki-content + h3,\n.x-wiki-content + h3 + p + h3,\na[onclick=\"shareToWeibo()\"],\nimg[src=\"/files/attachments/1422670998536258/0\"],\n.x-goto-top,\n#footer,\n#x-content-comment,\n#x-content-bottom,\n#x-sidebar-left-bottom {\n    display: none;\n}\n",
         "readability": false,
         "enabled": true
     },
