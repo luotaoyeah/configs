@@ -65,12 +65,12 @@
         "enabled": true
     },
     "github.com": {
-        "css": "body,\n.markdown-body {\n  font-family: \"SimSun\", \"宋体\";\n}\n\n.blob-code-inner,\npre,\ncode,\npre,\ntt,\n.text-mono {\n  font-family: \"Monaco\", monospace;\n}\n\n.Counter,\n.topic-tag,\n.Label,\n.IssueLabel {\n  border-radius: 3px;\n}\n\n.comment-reactions-options button,\n.State {\n  border-radius: 6px;\n}\n",
+        "css": "body,\n.markdown-body {\n    font-family: \"SimSun\", \"宋体\";\n}\n\n.blob-code-inner,\npre,\ncode,\npre,\ntt,\n.text-mono {\n    font-family: \"Monaco\", monospace;\n}\n\n.Counter,\n.topic-tag,\n.Label,\n.IssueLabel {\n    border-radius: 3px;\n}\n\n.comment-reactions-options button,\n.State {\n    border-radius: 6px;\n}\n\n.branch-name {\n    font: 11px Monaco, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;\n}\n",
         "readability": false,
         "enabled": true
     },
     "gitlab.com,jihulab.com": {
-        "css": "body {\n    font-family: \"SimSun\", \"宋体\";\n}\n\ncode, kbd, samp,\n.gl-font-monospace,\n.diff-table.code,\ntable.code,\n.job-log,\n.md code,\npre,\n.file-content.code pre code,\n.monospace,\n.commit-sha,\n.gfm-commit,\n.gfm-commit_range,\n.ref-name,\n.git-revision-dropdown .dropdown-content ul li a,\n.mr-state-widget .label-branch,\n.pipeline-number,\n.file-editor .file-title,\n.git-clone-holder .form-control,\n.git-clone-holder .search form,\n.search .git-clone-holder form,\ntextarea.js-gfm-input {\n    font-family: \"Monaco\", monospace;\n    font-size: 85%;\n}\n\n.badge-pill {\n    border-radius: 2px;\n}\n\n.info-well .well-segment {\n    padding: 8px;\n}\n",
+        "css": "body {\n    font-family: \"SimSun\", \"宋体\";\n}\n\ncode, kbd, samp,\n.gl-font-monospace,\n.diff-table.code,\ntable.code,\n.job-log,\n.md code,\npre,\n.file-content.code pre code,\n.monospace,\n.commit-sha,\n.gfm-commit,\n.gfm-commit_range,\n.ref-name,\n.git-revision-dropdown .dropdown-content ul li a,\n.mr-state-widget .label-branch,\n.pipeline-number,\n.file-editor .file-title,\n.git-clone-holder .form-control,\n.git-clone-holder .search form,\n.search .git-clone-holder form,\ntextarea.js-gfm-input {\n    font-family: \"Monaco\", monospace;\n    font-size: 85%;\n}\n\n.badge-pill {\n    border-radius: 2px;\n}\n\n.info-well .well-segment {\n    padding: 8px;\n}\n\n.diff-table.code .diff-tr.line_holder .diff-td, .diff-table.code tr.line_holder td, table.code .diff-tr.line_holder .diff-td, table.code tr.line_holder td {\n    font-size: 95% !important;\n}",
         "readability": false,
         "enabled": true
     },
@@ -96,6 +96,11 @@
     },
     "threejs.org": {
         "css": "html,\n#panel #language,\n.dg,\ninput,\nselect,\n#newWindow {\n  font-family: \"SimSun\", \"宋体\";\n}\n\nbody {\n  font-family: Monaco, \"SimSun\", \"宋体\";\n  font-size: 90%;\n}\n\npre.prettyprint,\ncode.prettyprint {\n  font-family: Monaco, \"SimSun\", \"宋体\";\n  font-size: 90%;\n}\n",
+        "readability": false,
+        "enabled": true
+    },
+    "vue3.jeecg.com": {
+        "css": "body, h1, h2, h3, h4, h5, .window-body .workspace .article .kancloud-markdown-body {\n    font-family: \"SimSun\", \"宋体\", sans-serif;\n}\n\n\n.window-body .workspace .article .kancloud-markdown-body code {\n    font-family: Monaco, monospace;\n    font-size: 90%;\n}\n\n.right.tools {\n    display: none;\n}",
         "readability": false,
         "enabled": true
     },
