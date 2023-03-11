@@ -99,7 +99,7 @@
         "readability": false,
         "enabled": true
     },
-    "vue3.jeecg.com": {
+    "vue3.jeecg.com,doc.jeecg.com": {
         "css": "body, h1, h2, h3, h4, h5, .window-body .workspace .article .kancloud-markdown-body {\n    font-family: \"SimSun\", \"宋体\", sans-serif;\n}\n\n\n.window-body .workspace .article .kancloud-markdown-body code {\n    font-family: Monaco, monospace;\n    font-size: 90%;\n}\n\n.right.tools {\n    display: none;\n}",
         "readability": false,
         "enabled": true
